@@ -1,0 +1,38 @@
+name: Update Contributors
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        pip install gitpython
+
+    - name: Run gen_datasets script
+      run: |
+        chmod +x gen_datasets.sh
+        gen_datasets.sh
+
+    - name: Commit and push if there are changes
+      run: |
+        git config --global user.name 'Anmin Liu'
+        git config --global user.email 'liuanmin.lam@antgroup.com'
+        git add .
+        git commit -m "Update contributors dataset" -a || exit 0
+        git push
