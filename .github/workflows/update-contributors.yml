@@ -27,7 +27,7 @@ jobs:
     - name: Run gen_dataset script
       run: |
         chmod +x gen_dataset.sh
-        gen_dataset.sh
+        ./gen_dataset.sh
 
     - name: Commit and push if there are changes
       run: |
