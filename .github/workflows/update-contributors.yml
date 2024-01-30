@@ -24,10 +24,10 @@ jobs:
       run: |
         pip install gitpython
 
-    - name: Run gen_datasets script
+    - name: Run gen_dataset script
       run: |
-        chmod +x gen_datasets.sh
-        gen_datasets.sh
+        chmod +x gen_dataset.sh
+        gen_dataset.sh
 
     - name: Commit and push if there are changes
       run: |
