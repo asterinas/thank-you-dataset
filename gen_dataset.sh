@@ -1,21 +1,16 @@
 #!/bin/bash
+set -e
 
 cleanup() {
   rm -rf "$all_repos_temp_dir"
-  rm -rf score-and-rank-contributors
 }
 
 trap 'cleanup' INT TERM EXIT
 
 # Define remote repository for score-and-rank-contributors tool
-TOOL_REPO="https://github.com/asterinas/score-and-rank-contributors" 
 REPO_LIST_FILE="config/repo_list.txt"
 AUTHOR_LIST_FILE="config/author_list.txt"
 all_repos_temp_dir=$(mktemp -d)
-
-# Clone the relative repositories
-git clone $TOOL_REPO score-and-rank-contributors
-cd score-and-rank-contributors && git checkout b1486230b1d8ab7578e5b20164030390da339e10 && cd .. 
 
 while IFS= read -r repo_url; do
     repo_name=$(basename "$repo_url" .git)
