@@ -1,37 +1,52 @@
 [
    {
       "rank": 1,
-      "name": "Junyang Zhang",
-      "score": 193
+      "name": "Tate, Hongliang Tian",
+      "score": 78
    },
    {
       "rank": 2,
-      "name": "tate.thl@antgroup.com",
-      "score": 84
+      "name": "Jianfeng Jiang",
+      "score": 58
    },
    {
       "rank": 3,
-      "name": "jiangjianfeng.jjf@antgroup.com",
-      "score": 56
+      "name": "Chen Chengjun",
+      "score": 49
    },
    {
       "rank": 4,
+      "name": "LI Qing",
+      "score": 12
+   },
+   {
+      "rank": 5,
       "name": "Yuke Peng",
       "score": 8
    },
    {
-      "rank": 5,
-      "name": "lrh2000@pku.edu.cn",
+      "rank": 6,
+      "name": "Ruihan Li",
       "score": 6
    },
    {
-      "rank": 6,
-      "name": "dev@liujiacai.net",
+      "rank": 7,
+      "name": "Wang Siyuan",
+      "score": 5
+   },
+   {
+      "rank": 8,
+      "name": "Junyang Zhang",
       "score": 2
    },
    {
-      "rank": 7,
-      "name": "1452099719@qq.com",
+      "rank": 9,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 10,
+      "name": "skpupil",
       "score": 2
    }
 ]

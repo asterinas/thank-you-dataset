@@ -1,72 +1,77 @@
 [
    {
       "rank": 1,
-      "name": "jiangjianfeng.jjf@antgroup.com",
-      "score": 1235
+      "name": "Jianfeng Jiang",
+      "score": 303
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 407
+      "score": 204
    },
    {
       "rank": 3,
       "name": "Yuke Peng",
-      "score": 156
+      "score": 148
    },
    {
       "rank": 4,
-      "name": "geding.lq@antgroup.com",
-      "score": 131
+      "name": "LI Qing",
+      "score": 123
    },
    {
       "rank": 5,
-      "name": "tate.thl@antgroup.com",
-      "score": 109
+      "name": "Tate, Hongliang Tian",
+      "score": 103
    },
    {
       "rank": 6,
-      "name": "lrh2000@pku.edu.cn",
-      "score": 62
+      "name": "Chen Chengjun",
+      "score": 91
    },
    {
       "rank": 7,
-      "name": "siyuan.hui@intel.com",
-      "score": 46
+      "name": "Ruihan Li",
+      "score": 58
    },
    {
       "rank": 8,
-      "name": "Chuandong Li",
+      "name": "Hsy-Intel",
       "score": 46
    },
    {
       "rank": 9,
-      "name": "chenchengjun.ccj@antgroup.com",
-      "score": 29
+      "name": "Chuandong Li",
+      "score": 46
    },
    {
       "rank": 10,
-      "name": "akucxy@163.com",
+      "name": "Js2xxx",
       "score": 8
    },
    {
       "rank": 11,
-      "name": "dev@liujiacai.net",
-      "score": 2
+      "name": "Wang Siyuan",
+      "score": 5
    },
    {
       "rank": 12,
-      "name": "1452099719@qq.com",
+      "name": "Jiacai Liu",
       "score": 2
    },
    {
       "rank": 13,
-      "name": "shanyingdi@zgclab.edu.cn",
+      "name": "skpupil",
       "score": 2
    },
    {
       "rank": 14,
-      "name": "60682162+sdww0@users.noreply.github.com",
+      "name": "Yingdi Shan",
+      "score": 2
+   },
+   {
+      "rank": 15,
+      "name": "cchanging",
       "score": 2
    }
 ]
