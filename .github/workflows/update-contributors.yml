@@ -3,6 +3,7 @@ name: Update Contributors
 on:
   workflow_dispatch:
   schedule:
+    # run at midnight every day
     - cron: '0 0 * * *'
   push:
     branches:
@@ -32,8 +33,8 @@ jobs:
 
     - name: Commit and push if there are changes
       run: |
-        git config --global user.name 'Anmin Liu'
-        git config --global user.email 'liuanmin.lam@antgroup.com'
-        git add .
+        git config --global user.name 'Github Action'
+        git config --global user.email 'action@github.com'
+        git add -u
         git commit -m "Update contributors dataset" -a || exit 0
         git push
