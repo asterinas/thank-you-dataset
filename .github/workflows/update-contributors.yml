@@ -5,9 +5,6 @@ on:
   schedule:
     # run at 4am in the morning on every Monday.
     - cron: '0 4 * * 1'
-  push:
-    branches:
-      - main
 
 jobs:
   update-contributors:
@@ -24,10 +21,6 @@ jobs:
       with:
         python-version: '3.8'
 
-    - name: Install dependencies
-      run: |
-        pip install gitpython
-
     - name: Run gen_dataset script
       run: |
         bash gen_dataset.sh
@@ -37,5 +30,5 @@ jobs:
         git config --global user.name 'Github Action'
         git config --global user.email 'action@github.com'
         git add -u
-        git commit -m "Update contributors dataset" -a || exit 0
+        git commit -m "Update contributors dataset" || exit 0
         git push
