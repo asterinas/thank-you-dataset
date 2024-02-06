@@ -1,4 +1,4 @@
-name: Test
+name: Test the gen_dataset script
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  test-update-contributors:
+  test-script:
     runs-on: ubuntu-latest
 
     steps:
