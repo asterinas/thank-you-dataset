@@ -17,7 +17,7 @@
    {
       "rank": 4,
       "name": "LI Qing",
-      "score": 123
+      "score": 125
    },
    {
       "rank": 5,
@@ -26,8 +26,8 @@
    },
    {
       "rank": 6,
-      "name": "Chen Chengjun",
-      "score": 91
+      "name": "Chengjun Chen",
+      "score": 93
    },
    {
       "rank": 7,
@@ -67,11 +67,6 @@
    {
       "rank": 14,
       "name": "Yingdi Shan",
-      "score": 2
-   },
-   {
-      "rank": 15,
-      "name": "cchanging",
       "score": 2
    }
 ]
