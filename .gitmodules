@@ -1,3 +1,4 @@
 [submodule "score-and-rank-contributors"]
 	path = score-and-rank-contributors
 	url = https://github.com/asterinas/score-and-rank-contributors
+	branch = main

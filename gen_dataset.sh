@@ -31,11 +31,11 @@ json_files=("dataset/last_year.json" "dataset/last_6_months.json" "dataset/last_
 validate_json() {
     for file in "${json_files[@]}"; do
         echo "Validating $file..."
-        if ! jq empty "$file"; then
+        if python -m json.tool $file > /dev/null 2>&1; then
+            echo "$file is a valid JSON file."
+        else
             echo "Error: JSON format validation failed for $file"
             exit 1
-        else
-            echo "$file is a valid JSON file."
         fi
     done
 }
