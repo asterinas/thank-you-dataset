@@ -18,14 +18,14 @@ while IFS= read -r repo_url; do
 done < $REPO_LIST_FILE
 
 # Generate datasets for each time period
-./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '1 year ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/last_year.json
-./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '6 months ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/last_6_months.json
-./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '3 months ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/last_3_months.json
-./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '1 month ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/last_month.json
+./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '1 year ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/past_year.json
+./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '6 months ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/past_6_months.json
+./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '3 months ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/past_3_months.json
+./score-and-rank-contributors/score-and-rank-contributors --since $(date -d '1 month ago' +%Y-%m-%d) --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/past_month.json
 ./score-and-rank-contributors/score-and-rank-contributors --authors $AUTHOR_LIST_FILE "$all_repos_temp_dir"/* > dataset/all_time.json
 
 # JSON format validator
-json_files=("dataset/last_year.json" "dataset/last_6_months.json" "dataset/last_3_months.json" "dataset/last_month.json" "dataset/all_time.json")
+json_files=("dataset/past_year.json" "dataset/past_6_months.json" "dataset/past_3_months.json" "dataset/past_month.json" "dataset/all_time.json")
 
 # Function to validate JSON format
 validate_json() {
