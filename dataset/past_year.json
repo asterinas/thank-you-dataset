@@ -2,22 +2,22 @@
    {
       "rank": 1,
       "name": "Jianfeng Jiang",
-      "score": 577
+      "score": 599
    },
    {
       "rank": 2,
       "name": "Yuke Peng",
-      "score": 414
+      "score": 391
    },
    {
       "rank": 3,
-      "name": "LI Qing",
-      "score": 331
+      "name": "Junyang Zhang",
+      "score": 384
    },
    {
       "rank": 4,
-      "name": "Junyang Zhang",
-      "score": 301
+      "name": "LI Qing",
+      "score": 295
    },
    {
       "rank": 5,
@@ -27,7 +27,7 @@
    {
       "rank": 6,
       "name": "Tate, Hongliang Tian",
-      "score": 116
+      "score": 118
    },
    {
       "rank": 7,
@@ -61,17 +61,17 @@
    },
    {
       "rank": 13,
+      "name": "Yingdi Shan",
+      "score": 4
+   },
+   {
+      "rank": 14,
       "name": "Jiacai Liu",
       "score": 2
    },
    {
-      "rank": 14,
-      "name": "skpupil",
-      "score": 2
-   },
-   {
       "rank": 15,
-      "name": "Yingdi Shan",
+      "name": "skpupil",
       "score": 2
    }
 ]
