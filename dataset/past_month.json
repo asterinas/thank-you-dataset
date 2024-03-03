@@ -1,47 +1,42 @@
 [
    {
       "rank": 1,
-      "name": "Tate, Hongliang Tian",
-      "score": 84
+      "name": "Junyang Zhang",
+      "score": 83
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 72
+      "score": 60
    },
    {
       "rank": 3,
       "name": "Jianfeng Jiang",
-      "score": 36
+      "score": 55
    },
    {
       "rank": 4,
       "name": "LI Qing",
-      "score": 27
+      "score": 15
    },
    {
       "rank": 5,
-      "name": "Yuke Peng",
+      "name": "Tate, Hongliang Tian",
       "score": 8
    },
    {
       "rank": 6,
+      "name": "Yuke Peng",
+      "score": 8
+   },
+   {
+      "rank": 7,
       "name": "Wang Siyuan",
       "score": 5
    },
    {
-      "rank": 7,
-      "name": "Junyang Zhang",
-      "score": 2
-   },
-   {
       "rank": 8,
-      "name": "Jiacai Liu",
-      "score": 2
-   },
-   {
-      "rank": 9,
-      "name": "skpupil",
+      "name": "Yingdi Shan",
       "score": 2
    }
 ]
