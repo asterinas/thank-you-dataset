@@ -1,66 +1,56 @@
 [
    {
       "rank": 1,
-      "name": "Jianfeng Jiang",
-      "score": 175
-   },
-   {
-      "rank": 2,
       "name": "Junyang Zhang",
       "score": 171
    },
    {
+      "rank": 2,
+      "name": "Jianfeng Jiang",
+      "score": 144
+   },
+   {
       "rank": 3,
       "name": "Chengjun Chen",
-      "score": 145
+      "score": 129
    },
    {
       "rank": 4,
+      "name": "LI Qing",
+      "score": 104
+   },
+   {
+      "rank": 5,
       "name": "Tate, Hongliang Tian",
       "score": 98
    },
    {
-      "rank": 5,
-      "name": "LI Qing",
-      "score": 97
-   },
-   {
       "rank": 6,
       "name": "Ruihan Li",
-      "score": 46
+      "score": 48
    },
    {
       "rank": 7,
       "name": "Yuke Peng",
-      "score": 22
+      "score": 24
    },
    {
       "rank": 8,
-      "name": "Chuandong Li",
-      "score": 10
-   },
-   {
-      "rank": 9,
-      "name": "Hsy-Intel",
-      "score": 6
-   },
-   {
-      "rank": 10,
       "name": "Wang Siyuan",
       "score": 5
    },
    {
-      "rank": 11,
+      "rank": 9,
       "name": "Yingdi Shan",
       "score": 2
    },
    {
-      "rank": 12,
+      "rank": 10,
       "name": "Jiacai Liu",
       "score": 2
    },
    {
-      "rank": 13,
+      "rank": 11,
       "name": "skpupil",
       "score": 2
    }
