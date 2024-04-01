@@ -7,22 +7,22 @@
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 265
+      "score": 270
    },
    {
       "rank": 3,
+      "name": "Ruihan Li",
+      "score": 167
+   },
+   {
+      "rank": 4,
       "name": "Chengjun Chen",
       "score": 161
    },
    {
-      "rank": 4,
+      "rank": 5,
       "name": "LI Qing",
       "score": 137
-   },
-   {
-      "rank": 5,
-      "name": "Ruihan Li",
-      "score": 127
    },
    {
       "rank": 6,
@@ -32,45 +32,50 @@
    {
       "rank": 7,
       "name": "Yuke Peng",
-      "score": 85
+      "score": 71
    },
    {
       "rank": 8,
       "name": "Yingdi Shan",
-      "score": 64
+      "score": 67
    },
    {
       "rank": 9,
-      "name": "Hsy-Intel",
-      "score": 60
-   },
-   {
-      "rank": 10,
       "name": "Chuandong Li",
       "score": 42
    },
    {
+      "rank": 10,
+      "name": "Hsy-Intel",
+      "score": 20
+   },
+   {
       "rank": 11,
+      "name": "Fabing Li",
+      "score": 10
+   },
+   {
+      "rank": 12,
       "name": "Js2xxx",
       "score": 8
    },
    {
-      "rank": 12,
+      "rank": 13,
+      "name": "Zhenchen Wang",
+      "score": 6
+   },
+   {
+      "rank": 14,
       "name": "Wang Siyuan",
       "score": 5
    },
    {
-      "rank": 13,
-      "name": "Fabing Li",
-      "score": 2
-   },
-   {
-      "rank": 14,
+      "rank": 15,
       "name": "Jiacai Liu",
       "score": 2
    },
    {
-      "rank": 15,
+      "rank": 16,
       "name": "skpupil",
       "score": 2
    }
