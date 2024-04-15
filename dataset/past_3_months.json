@@ -1,23 +1,23 @@
 [
    {
       "rank": 1,
-      "name": "Jianfeng Jiang",
-      "score": 150
+      "name": "Ruihan Li",
+      "score": 143
    },
    {
       "rank": 2,
-      "name": "Ruihan Li",
-      "score": 119
+      "name": "Jianfeng Jiang",
+      "score": 118
    },
    {
       "rank": 3,
       "name": "Chengjun Chen",
-      "score": 119
+      "score": 118
    },
    {
       "rank": 4,
       "name": "Junyang Zhang",
-      "score": 102
+      "score": 106
    },
    {
       "rank": 5,
@@ -32,7 +32,7 @@
    {
       "rank": 7,
       "name": "LI Qing",
-      "score": 40
+      "score": 62
    },
    {
       "rank": 8,
@@ -66,16 +66,31 @@
    },
    {
       "rank": 14,
-      "name": "nishirong",
+      "name": "LeslieKid",
       "score": 2
    },
    {
       "rank": 15,
-      "name": "Jiacai Liu",
+      "name": "Wang Taojie",
       "score": 2
    },
    {
       "rank": 16,
+      "name": "StanPlatinum",
+      "score": 2
+   },
+   {
+      "rank": 17,
+      "name": "nishirong",
+      "score": 2
+   },
+   {
+      "rank": 18,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 19,
       "name": "skpupil",
       "score": 2
    }
