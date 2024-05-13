@@ -1,33 +1,33 @@
 [
    {
       "rank": 1,
-      "name": "Jianfeng Jiang",
-      "score": 576
+      "name": "Junyang Zhang",
+      "score": 606
    },
    {
       "rank": 2,
-      "name": "Junyang Zhang",
-      "score": 491
+      "name": "Jianfeng Jiang",
+      "score": 578
    },
    {
       "rank": 3,
       "name": "LI Qing",
-      "score": 252
+      "score": 254
    },
    {
       "rank": 4,
       "name": "Yuke Peng",
-      "score": 249
+      "score": 238
    },
    {
       "rank": 5,
       "name": "Ruihan Li",
-      "score": 210
+      "score": 212
    },
    {
       "rank": 6,
       "name": "Chengjun Chen",
-      "score": 178
+      "score": 191
    },
    {
       "rank": 7,
@@ -37,7 +37,7 @@
    {
       "rank": 8,
       "name": "Chuandong Li",
-      "score": 76
+      "score": 78
    },
    {
       "rank": 9,
@@ -57,7 +57,7 @@
    {
       "rank": 12,
       "name": "Fabing Li",
-      "score": 21
+      "score": 28
    },
    {
       "rank": 13,
@@ -66,32 +66,32 @@
    },
    {
       "rank": 14,
-      "name": "Zhenchen Wang",
+      "name": "StanPlatinum",
       "score": 6
    },
    {
       "rank": 15,
+      "name": "Zhenchen Wang",
+      "score": 6
+   },
+   {
+      "rank": 16,
       "name": "Wang Siyuan",
       "score": 5
    },
    {
-      "rank": 16,
+      "rank": 17,
       "name": "YanWQ-monad",
       "score": 2
    },
    {
-      "rank": 17,
+      "rank": 18,
       "name": "LeslieKid",
       "score": 2
    },
    {
-      "rank": 18,
-      "name": "Wang Taojie",
-      "score": 2
-   },
-   {
       "rank": 19,
-      "name": "StanPlatinum",
+      "name": "Wang Taojie",
       "score": 2
    },
    {
