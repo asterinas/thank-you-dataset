@@ -2,27 +2,27 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 393
+      "score": 397
    },
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 305
+      "score": 311
    },
    {
       "rank": 3,
       "name": "Ruihan Li",
-      "score": 212
+      "score": 218
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 185
+      "score": 209
    },
    {
       "rank": 5,
       "name": "LI Qing",
-      "score": 169
+      "score": 172
    },
    {
       "rank": 6,
@@ -41,71 +41,76 @@
    },
    {
       "rank": 9,
-      "name": "Yuke Peng",
-      "score": 42
-   },
-   {
-      "rank": 10,
       "name": "Hsy-Intel",
       "score": 33
    },
    {
-      "rank": 11,
+      "rank": 10,
       "name": "fgh1999",
       "score": 32
    },
    {
-      "rank": 12,
+      "rank": 11,
       "name": "Chuandong Li",
-      "score": 31
+      "score": 29
+   },
+   {
+      "rank": 12,
+      "name": "Fabing Li",
+      "score": 28
    },
    {
       "rank": 13,
-      "name": "Fabing Li",
+      "name": "Yuke Peng",
       "score": 28
    },
    {
       "rank": 14,
       "name": "YanWQ-monad",
-      "score": 20
+      "score": 26
    },
    {
       "rank": 15,
-      "name": "Js2xxx",
-      "score": 10
-   },
-   {
-      "rank": 16,
       "name": "StanPlatinum",
       "score": 6
    },
    {
-      "rank": 17,
+      "rank": 16,
       "name": "Wang Siyuan",
       "score": 5
    },
    {
+      "rank": 17,
+      "name": "HaiQiu1998",
+      "score": 2
+   },
+   {
       "rank": 18,
-      "name": "LeslieKid",
+      "name": "\u5f90\u542f\u822a",
       "score": 2
    },
    {
       "rank": 19,
-      "name": "Wang Taojie",
+      "name": "LeslieKid",
       "score": 2
    },
    {
       "rank": 20,
-      "name": "nishirong",
+      "name": "Wang Taojie",
       "score": 2
    },
    {
       "rank": 21,
-      "name": "Jiacai Liu",
+      "name": "nishirong",
       "score": 2
    },
    {
       "rank": 22,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 23,
       "name": "skpupil",
       "score": 2
    }

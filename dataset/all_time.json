@@ -2,37 +2,37 @@
    {
       "rank": 1,
       "name": "Jianfeng Jiang",
-      "score": 1049
+      "score": 1055
    },
    {
       "rank": 2,
+      "name": "Junyang Zhang",
+      "score": 610
+   },
+   {
+      "rank": 3,
       "name": "Yuke Peng",
       "score": 609
    },
    {
-      "rank": 3,
-      "name": "Junyang Zhang",
-      "score": 606
-   },
-   {
       "rank": 4,
       "name": "LI Qing",
-      "score": 449
+      "score": 452
    },
    {
       "rank": 5,
+      "name": "Ruihan Li",
+      "score": 230
+   },
+   {
+      "rank": 6,
       "name": "Tate, Hongliang Tian",
       "score": 225
    },
    {
-      "rank": 6,
-      "name": "Ruihan Li",
-      "score": 222
-   },
-   {
       "rank": 7,
       "name": "Chengjun Chen",
-      "score": 193
+      "score": 217
    },
    {
       "rank": 8,
@@ -67,7 +67,7 @@
    {
       "rank": 14,
       "name": "YanWQ-monad",
-      "score": 20
+      "score": 26
    },
    {
       "rank": 15,
@@ -91,26 +91,31 @@
    },
    {
       "rank": 19,
-      "name": "LeslieKid",
+      "name": "HaiQiu1998",
       "score": 2
    },
    {
       "rank": 20,
-      "name": "Wang Taojie",
+      "name": "LeslieKid",
       "score": 2
    },
    {
       "rank": 21,
-      "name": "nishirong",
+      "name": "Wang Taojie",
       "score": 2
    },
    {
       "rank": 22,
-      "name": "Jiacai Liu",
+      "name": "nishirong",
       "score": 2
    },
    {
       "rank": 23,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 24,
       "name": "skpupil",
       "score": 2
    }
