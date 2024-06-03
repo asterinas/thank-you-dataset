@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Jianfeng Jiang",
-      "score": 1055
+      "score": 1064
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 610
+      "score": 615
    },
    {
       "rank": 3,
@@ -22,17 +22,17 @@
    {
       "rank": 5,
       "name": "Ruihan Li",
-      "score": 230
+      "score": 232
    },
    {
       "rank": 6,
-      "name": "Tate, Hongliang Tian",
-      "score": 225
+      "name": "Chengjun Chen",
+      "score": 227
    },
    {
       "rank": 7,
-      "name": "Chengjun Chen",
-      "score": 217
+      "name": "Tate, Hongliang Tian",
+      "score": 225
    },
    {
       "rank": 8,
@@ -56,18 +56,18 @@
    },
    {
       "rank": 12,
-      "name": "fgh1999",
-      "score": 32
+      "name": "Fabing Li",
+      "score": 33
    },
    {
       "rank": 13,
-      "name": "Fabing Li",
-      "score": 28
+      "name": "YanWQ-monad",
+      "score": 32
    },
    {
       "rank": 14,
-      "name": "YanWQ-monad",
-      "score": 26
+      "name": "fgh1999",
+      "score": 32
    },
    {
       "rank": 15,
@@ -82,40 +82,55 @@
    {
       "rank": 17,
       "name": "StanPlatinum",
-      "score": 6
+      "score": 9
    },
    {
       "rank": 18,
-      "name": "Wang Siyuan",
+      "name": "jellllly420",
       "score": 5
    },
    {
       "rank": 19,
-      "name": "HaiQiu1998",
-      "score": 2
+      "name": "Wang Siyuan",
+      "score": 5
    },
    {
       "rank": 20,
-      "name": "LeslieKid",
-      "score": 2
+      "name": "skpupil",
+      "score": 4
    },
    {
       "rank": 21,
-      "name": "Wang Taojie",
+      "name": "mag1cian",
       "score": 2
    },
    {
       "rank": 22,
-      "name": "nishirong",
+      "name": "HaiQiu1998",
       "score": 2
    },
    {
       "rank": 23,
-      "name": "Jiacai Liu",
+      "name": "LeslieKid",
       "score": 2
    },
    {
       "rank": 24,
+      "name": "Wang Taojie",
+      "score": 2
+   },
+   {
+      "rank": 25,
+      "name": "nishirong",
+      "score": 2
+   },
+   {
+      "rank": 26,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 27,
       "name": "skpupil",
       "score": 2
    }
