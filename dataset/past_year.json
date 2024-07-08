@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 789
+      "score": 808
    },
    {
       "rank": 2,
@@ -12,17 +12,17 @@
    {
       "rank": 3,
       "name": "Ruihan Li",
-      "score": 277
+      "score": 279
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 277
+      "score": 279
    },
    {
       "rank": 5,
       "name": "LI Qing",
-      "score": 276
+      "score": 274
    },
    {
       "rank": 6,
@@ -46,23 +46,23 @@
    },
    {
       "rank": 10,
-      "name": "Chuandong Li",
-      "score": 78
+      "name": "Fabing Li",
+      "score": 80
    },
    {
       "rank": 11,
-      "name": "Fabing Li",
-      "score": 76
-   },
-   {
-      "rank": 12,
       "name": "Yingdi Shan",
       "score": 71
    },
    {
-      "rank": 13,
+      "rank": 12,
       "name": "Zhenchen Wang",
-      "score": 58
+      "score": 64
+   },
+   {
+      "rank": 13,
+      "name": "Chuandong Li",
+      "score": 57
    },
    {
       "rank": 14,
@@ -77,7 +77,7 @@
    {
       "rank": 16,
       "name": "StanPlatinum",
-      "score": 22
+      "score": 25
    },
    {
       "rank": 17,
@@ -91,71 +91,76 @@
    },
    {
       "rank": 19,
+      "name": "Yuke Peng",
+      "score": 8
+   },
+   {
+      "rank": 20,
+      "name": "Qingsong Chen",
+      "score": 6
+   },
+   {
+      "rank": 21,
       "name": "anbo",
       "score": 5
    },
    {
-      "rank": 20,
+      "rank": 22,
       "name": "jellllly420",
       "score": 5
    },
    {
-      "rank": 21,
+      "rank": 23,
       "name": "Wang Siyuan",
       "score": 5
    },
    {
-      "rank": 22,
-      "name": "Yuke Peng",
-      "score": 4
-   },
-   {
-      "rank": 23,
+      "rank": 24,
       "name": "hongwen.chw",
       "score": 4
    },
    {
-      "rank": 24,
+      "rank": 25,
       "name": "nishirong",
       "score": 4
    },
    {
-      "rank": 25,
+      "rank": 26,
       "name": "skpupil",
       "score": 4
    },
    {
-      "rank": 26,
-      "name": "Qingsong Chen",
-      "score": 2
-   },
-   {
       "rank": 27,
-      "name": "mag1cian",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 28,
-      "name": "HaiQiu1998",
+      "name": "mag1cian",
       "score": 2
    },
    {
       "rank": 29,
-      "name": "LeslieKid",
+      "name": "HaiQiu1998",
       "score": 2
    },
    {
       "rank": 30,
-      "name": "Wang Taojie",
+      "name": "LeslieKid",
       "score": 2
    },
    {
       "rank": 31,
-      "name": "Jiacai Liu",
+      "name": "Wang Taojie",
       "score": 2
    },
    {
       "rank": 32,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 33,
       "name": "skpupil",
       "score": 2
    }

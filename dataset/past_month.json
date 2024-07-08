@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 174
+      "score": 92
    },
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 98
+      "score": 83
    },
    {
       "rank": 3,
@@ -16,23 +16,23 @@
    },
    {
       "rank": 4,
-      "name": "Chengjun Chen",
-      "score": 50
+      "name": "Fabing Li",
+      "score": 45
    },
    {
       "rank": 5,
       "name": "Ruihan Li",
-      "score": 45
+      "score": 33
    },
    {
       "rank": 6,
-      "name": "Fabing Li",
-      "score": 43
+      "name": "LI Qing",
+      "score": 25
    },
    {
       "rank": 7,
-      "name": "LI Qing",
-      "score": 25
+      "name": "Chengjun Chen",
+      "score": 23
    },
    {
       "rank": 8,
@@ -42,66 +42,61 @@
    {
       "rank": 9,
       "name": "Weijie Liu",
-      "score": 16
+      "score": 10
    },
    {
       "rank": 10,
-      "name": "Zhenchen Wang",
-      "score": 12
-   },
-   {
-      "rank": 11,
       "name": "Shaocong Sun",
       "score": 9
    },
    {
+      "rank": 11,
+      "name": "Yuke Peng",
+      "score": 8
+   },
+   {
       "rank": 12,
-      "name": "Tate, Hongliang Tian",
+      "name": "Zhenchen Wang",
       "score": 6
    },
    {
       "rank": 13,
-      "name": "anbo",
-      "score": 5
+      "name": "Qingsong Chen",
+      "score": 6
    },
    {
       "rank": 14,
-      "name": "jellllly420",
-      "score": 5
+      "name": "Tate, Hongliang Tian",
+      "score": 6
    },
    {
       "rank": 15,
-      "name": "Yuke Peng",
-      "score": 4
-   },
-   {
-      "rank": 16,
       "name": "hongwen.chw",
       "score": 4
    },
    {
-      "rank": 17,
-      "name": "YanWQ-monad",
-      "score": 4
+      "rank": 16,
+      "name": "Zhe Tang",
+      "score": 2
    },
    {
-      "rank": 18,
+      "rank": 17,
       "name": "fgh1999",
       "score": 2
    },
    {
-      "rank": 19,
-      "name": "Qingsong Chen",
-      "score": 2
-   },
-   {
-      "rank": 20,
+      "rank": 18,
       "name": "nishirong",
       "score": 2
    },
    {
-      "rank": 21,
+      "rank": 19,
       "name": "Yingdi Shan",
+      "score": 2
+   },
+   {
+      "rank": 20,
+      "name": "YanWQ-monad",
       "score": 2
    }
 ]
