@@ -1,28 +1,28 @@
 [
    {
       "rank": 1,
-      "name": "Junyang Zhang",
-      "score": 87
+      "name": "Ruihan Li",
+      "score": 81
    },
    {
       "rank": 2,
-      "name": "Jianfeng Jiang",
-      "score": 54
+      "name": "Junyang Zhang",
+      "score": 66
    },
    {
       "rank": 3,
-      "name": "Ruihan Li",
-      "score": 46
+      "name": "Jianfeng Jiang",
+      "score": 60
    },
    {
       "rank": 4,
-      "name": "Fabing Li",
-      "score": 45
+      "name": "Yuke Peng",
+      "score": 49
    },
    {
       "rank": 5,
-      "name": "Yuke Peng",
-      "score": 29
+      "name": "Fabing Li",
+      "score": 41
    },
    {
       "rank": 6,
@@ -31,27 +31,27 @@
    },
    {
       "rank": 7,
-      "name": "Hsy-Intel",
-      "score": 20
+      "name": "LI Qing",
+      "score": 14
    },
    {
       "rank": 8,
-      "name": "LI Qing",
-      "score": 16
+      "name": "Qingsong Chen",
+      "score": 10
    },
    {
       "rank": 9,
-      "name": "Sun12551",
-      "score": 7
+      "name": "Hsy-Intel",
+      "score": 8
    },
    {
       "rank": 10,
-      "name": "Zhenchen Wang",
+      "name": "Shaowei Song",
       "score": 6
    },
    {
       "rank": 11,
-      "name": "Qingsong Chen",
+      "name": "Zhenchen Wang",
       "score": 6
    },
    {
@@ -61,32 +61,32 @@
    },
    {
       "rank": 13,
-      "name": "Weijie Liu",
-      "score": 5
+      "name": "Shaocong Sun",
+      "score": 4
    },
    {
       "rank": 14,
-      "name": "Shaowei Song",
-      "score": 4
+      "name": "Weijie Liu",
+      "score": 3
    },
    {
       "rank": 15,
       "name": "hongwen.chw",
-      "score": 4
+      "score": 2
    },
    {
       "rank": 16,
-      "name": "Zhe Tang",
+      "name": "YanWQ-monad",
       "score": 2
    },
    {
       "rank": 17,
-      "name": "fgh1999",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 18,
-      "name": "nishirong",
+      "name": "fgh1999",
       "score": 2
    }
 ]
