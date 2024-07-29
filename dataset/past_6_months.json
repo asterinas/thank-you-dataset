@@ -2,22 +2,22 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 534
+      "score": 542
    },
    {
       "rank": 2,
+      "name": "Ruihan Li",
+      "score": 289
+   },
+   {
+      "rank": 3,
       "name": "Jianfeng Jiang",
       "score": 281
    },
    {
-      "rank": 3,
-      "name": "Ruihan Li",
-      "score": 271
-   },
-   {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 206
+      "score": 200
    },
    {
       "rank": 5,
@@ -26,8 +26,8 @@
    },
    {
       "rank": 6,
-      "name": "Tate, Hongliang Tian",
-      "score": 94
+      "name": "Fabing Li",
+      "score": 82
    },
    {
       "rank": 7,
@@ -36,18 +36,18 @@
    },
    {
       "rank": 8,
-      "name": "Fabing Li",
-      "score": 80
-   },
-   {
-      "rank": 9,
       "name": "Yingdi Shan",
       "score": 69
    },
    {
-      "rank": 10,
+      "rank": 9,
       "name": "Zhenchen Wang",
       "score": 64
+   },
+   {
+      "rank": 10,
+      "name": "Yuke Peng",
+      "score": 55
    },
    {
       "rank": 11,
@@ -56,23 +56,23 @@
    },
    {
       "rank": 12,
-      "name": "Yuke Peng",
-      "score": 49
+      "name": "YanWQ-monad",
+      "score": 42
    },
    {
       "rank": 13,
-      "name": "YanWQ-monad",
-      "score": 38
-   },
-   {
-      "rank": 14,
       "name": "fgh1999",
       "score": 34
    },
    {
-      "rank": 15,
+      "rank": 14,
       "name": "StanPlatinum",
-      "score": 25
+      "score": 27
+   },
+   {
+      "rank": 15,
+      "name": "Tate, Hongliang Tian",
+      "score": 16
    },
    {
       "rank": 16,
@@ -81,22 +81,22 @@
    },
    {
       "rank": 17,
+      "name": "Shaowei Song",
+      "score": 13
+   },
+   {
+      "rank": 18,
       "name": "Qingsong Chen",
       "score": 12
    },
    {
-      "rank": 18,
+      "rank": 19,
       "name": "Shaocong Sun",
       "score": 9
    },
    {
-      "rank": 19,
-      "name": "hongwen.chw",
-      "score": 6
-   },
-   {
       "rank": 20,
-      "name": "Shaowei Song",
+      "name": "hongwen.chw",
       "score": 6
    },
    {
@@ -157,16 +157,6 @@
    {
       "rank": 32,
       "name": "Wang Taojie",
-      "score": 2
-   },
-   {
-      "rank": 33,
-      "name": "Jiacai Liu",
-      "score": 2
-   },
-   {
-      "rank": 34,
-      "name": "skpupil",
       "score": 2
    }
 ]
