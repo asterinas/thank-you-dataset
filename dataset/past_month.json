@@ -2,37 +2,37 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 76
+      "score": 96
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 52
+      "score": 71
    },
    {
       "rank": 3,
       "name": "Yuke Peng",
-      "score": 51
+      "score": 67
    },
    {
       "rank": 4,
+      "name": "Shaowei Song",
+      "score": 20
+   },
+   {
+      "rank": 5,
       "name": "Jianfeng Jiang",
       "score": 15
    },
    {
-      "rank": 5,
-      "name": "Shaowei Song",
-      "score": 13
-   },
-   {
       "rank": 6,
-      "name": "Qingsong Chen",
+      "name": "Fabing Li",
       "score": 10
    },
    {
       "rank": 7,
-      "name": "LI Qing",
-      "score": 9
+      "name": "Qingsong Chen",
+      "score": 10
    },
    {
       "rank": 8,
@@ -41,37 +41,37 @@
    },
    {
       "rank": 9,
-      "name": "Fabing Li",
-      "score": 6
-   },
-   {
-      "rank": 10,
       "name": "Hsy-Intel",
       "score": 6
    },
    {
-      "rank": 11,
-      "name": "Zhenchen Wang",
-      "score": 6
-   },
-   {
-      "rank": 12,
-      "name": "Weijie Liu",
+      "rank": 10,
+      "name": "LI Qing",
       "score": 5
    },
    {
-      "rank": 13,
+      "rank": 11,
       "name": "Chengjun Chen",
       "score": 4
    },
    {
+      "rank": 12,
+      "name": "Wang Siyuan",
+      "score": 3
+   },
+   {
+      "rank": 13,
+      "name": "Weijie Liu",
+      "score": 2
+   },
+   {
       "rank": 14,
-      "name": "hongwen.chw",
+      "name": "StanPlatinum",
       "score": 2
    },
    {
       "rank": 15,
-      "name": "Zhe Tang",
+      "name": "hongwen.chw",
       "score": 2
    }
 ]

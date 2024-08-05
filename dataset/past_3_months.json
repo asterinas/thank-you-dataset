@@ -2,22 +2,22 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 350
+      "score": 388
    },
    {
       "rank": 2,
-      "name": "Jianfeng Jiang",
-      "score": 168
+      "name": "Ruihan Li",
+      "score": 165
    },
    {
       "rank": 3,
-      "name": "Ruihan Li",
-      "score": 137
+      "name": "Jianfeng Jiang",
+      "score": 147
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 103
+      "score": 105
    },
    {
       "rank": 5,
@@ -26,23 +26,23 @@
    },
    {
       "rank": 6,
-      "name": "LI Qing",
-      "score": 62
+      "name": "Yuke Peng",
+      "score": 75
    },
    {
       "rank": 7,
       "name": "Fabing Li",
-      "score": 61
+      "score": 67
    },
    {
       "rank": 8,
-      "name": "plucky",
-      "score": 58
+      "name": "LI Qing",
+      "score": 62
    },
    {
       "rank": 9,
-      "name": "Yuke Peng",
-      "score": 55
+      "name": "plucky",
+      "score": 58
    },
    {
       "rank": 10,
@@ -62,12 +62,12 @@
    {
       "rank": 13,
       "name": "Shaowei Song",
-      "score": 13
+      "score": 20
    },
    {
       "rank": 14,
       "name": "Qingsong Chen",
-      "score": 12
+      "score": 16
    },
    {
       "rank": 15,
@@ -101,36 +101,46 @@
    },
    {
       "rank": 21,
-      "name": "Zhe Tang",
-      "score": 2
+      "name": "Wang Siyuan",
+      "score": 3
    },
    {
       "rank": 22,
-      "name": "fgh1999",
+      "name": "Weijie Liu",
       "score": 2
    },
    {
       "rank": 23,
-      "name": "nishirong",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 24,
-      "name": "Yingdi Shan",
+      "name": "fgh1999",
       "score": 2
    },
    {
       "rank": 25,
-      "name": "mag1cian",
+      "name": "nishirong",
       "score": 2
    },
    {
       "rank": 26,
-      "name": "HaiQiu1998",
+      "name": "Yingdi Shan",
       "score": 2
    },
    {
       "rank": 27,
+      "name": "mag1cian",
+      "score": 2
+   },
+   {
+      "rank": 28,
+      "name": "HaiQiu1998",
+      "score": 2
+   },
+   {
+      "rank": 29,
       "name": "Chuandong Li",
       "score": 2
    }
