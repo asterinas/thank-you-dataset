@@ -2,80 +2,100 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 127
+      "score": 141
    },
    {
       "rank": 2,
       "name": "Ruihan Li",
-      "score": 103
+      "score": 87
    },
    {
       "rank": 3,
       "name": "Yuke Peng",
-      "score": 50
+      "score": 81
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 24
+      "score": 69
    },
    {
       "rank": 5,
+      "name": "Fabing Li",
+      "score": 36
+   },
+   {
+      "rank": 6,
+      "name": "Hsy-Intel",
+      "score": 28
+   },
+   {
+      "rank": 7,
       "name": "Shaowei Song",
       "score": 23
    },
    {
-      "rank": 6,
-      "name": "Jianfeng Jiang",
-      "score": 22
-   },
-   {
-      "rank": 7,
-      "name": "Hsy-Intel",
-      "score": 19
-   },
-   {
       "rank": 8,
-      "name": "Qingsong Chen",
+      "name": "jellllly420",
       "score": 16
    },
    {
       "rank": 9,
-      "name": "YanWQ-monad",
-      "score": 10
+      "name": "Marsman1996",
+      "score": 12
    },
    {
       "rank": 10,
-      "name": "Fabing Li",
-      "score": 10
+      "name": "Jianfeng Jiang",
+      "score": 11
    },
    {
       "rank": 11,
+      "name": "Qingsong Chen",
+      "score": 10
+   },
+   {
+      "rank": 12,
       "name": "azongchang",
       "score": 9
    },
    {
-      "rank": 12,
-      "name": "Marsman1996",
-      "score": 6
+      "rank": 13,
+      "name": "YanWQ-monad",
+      "score": 8
    },
    {
-      "rank": 13,
+      "rank": 14,
+      "name": "Cautreoxit",
+      "score": 7
+   },
+   {
+      "rank": 15,
       "name": "Wang Siyuan",
       "score": 3
    },
    {
-      "rank": 14,
+      "rank": 16,
+      "name": "Yuke Peng",
+      "score": 2
+   },
+   {
+      "rank": 17,
+      "name": "Tate, Hongliang Tian",
+      "score": 2
+   },
+   {
+      "rank": 18,
       "name": "Weijie Liu",
       "score": 2
    },
    {
-      "rank": 15,
+      "rank": 19,
       "name": "StanPlatinum",
       "score": 2
    },
    {
-      "rank": 16,
+      "rank": 20,
       "name": "hongwen.chw",
       "score": 2
    }
