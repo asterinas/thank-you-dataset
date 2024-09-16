@@ -2,42 +2,42 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 915
+      "score": 945
    },
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 508
+      "score": 501
    },
    {
       "rank": 3,
       "name": "Ruihan Li",
-      "score": 426
+      "score": 493
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 367
+      "score": 387
    },
    {
       "rank": 5,
+      "name": "Yuke Peng",
+      "score": 238
+   },
+   {
+      "rank": 6,
       "name": "LI Qing",
       "score": 237
    },
    {
-      "rank": 6,
-      "name": "Yuke Peng",
-      "score": 224
-   },
-   {
       "rank": 7,
-      "name": "Hsy-Intel",
-      "score": 127
+      "name": "Fabing Li",
+      "score": 133
    },
    {
       "rank": 8,
-      "name": "Fabing Li",
-      "score": 122
+      "name": "Hsy-Intel",
+      "score": 127
    },
    {
       "rank": 9,
@@ -56,33 +56,33 @@
    },
    {
       "rank": 12,
+      "name": "Shaowei Song",
+      "score": 77
+   },
+   {
+      "rank": 13,
       "name": "Yingdi Shan",
       "score": 71
    },
    {
-      "rank": 13,
+      "rank": 14,
       "name": "Zhenchen Wang",
       "score": 64
    },
    {
-      "rank": 14,
-      "name": "Shaowei Song",
-      "score": 62
+      "rank": 15,
+      "name": "Marsman1996",
+      "score": 50
    },
    {
-      "rank": 15,
+      "rank": 16,
       "name": "YanWQ-monad",
       "score": 48
    },
    {
-      "rank": 16,
+      "rank": 17,
       "name": "Chuandong Li",
       "score": 48
-   },
-   {
-      "rank": 17,
-      "name": "Marsman1996",
-      "score": 38
    },
    {
       "rank": 18,
@@ -102,7 +102,7 @@
    {
       "rank": 21,
       "name": "Qingsong Chen",
-      "score": 22
+      "score": 24
    },
    {
       "rank": 22,
@@ -146,66 +146,71 @@
    },
    {
       "rank": 30,
-      "name": "rikosellic",
+      "name": "Ruize Tang",
       "score": 4
    },
    {
       "rank": 31,
-      "name": "nishirong",
+      "name": "rikosellic",
       "score": 4
    },
    {
       "rank": 32,
-      "name": "skpupil",
+      "name": "nishirong",
       "score": 4
    },
    {
       "rank": 33,
-      "name": "Thomas Dickson",
-      "score": 2
+      "name": "skpupil",
+      "score": 4
    },
    {
       "rank": 34,
-      "name": "Ruize Tang",
+      "name": "Fabing LI",
       "score": 2
    },
    {
       "rank": 35,
-      "name": "Weijie Liu",
+      "name": "Thomas Dickson",
       "score": 2
    },
    {
       "rank": 36,
-      "name": "Zhe Tang",
+      "name": "Weijie Liu",
       "score": 2
    },
    {
       "rank": 37,
-      "name": "mag1cian",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 38,
-      "name": "HaiQiu1998",
+      "name": "mag1cian",
       "score": 2
    },
    {
       "rank": 39,
-      "name": "LeslieKid",
+      "name": "HaiQiu1998",
       "score": 2
    },
    {
       "rank": 40,
-      "name": "Wang Taojie",
+      "name": "LeslieKid",
       "score": 2
    },
    {
       "rank": 41,
-      "name": "Jiacai Liu",
+      "name": "Wang Taojie",
       "score": 2
    },
    {
       "rank": 42,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 43,
       "name": "skpupil",
       "score": 2
    }
