@@ -2,42 +2,42 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 122
+      "score": 132
    },
    {
       "rank": 2,
       "name": "Ruihan Li",
-      "score": 55
+      "score": 37
    },
    {
       "rank": 3,
-      "name": "Yuke Peng",
-      "score": 41
+      "name": "YanWQ-monad",
+      "score": 28
    },
    {
       "rank": 4,
-      "name": "Shaowei Song",
-      "score": 33
-   },
-   {
-      "rank": 5,
-      "name": "YanWQ-monad",
-      "score": 32
-   },
-   {
-      "rank": 6,
-      "name": "\u8d1f\u96ea",
-      "score": 26
-   },
-   {
-      "rank": 7,
-      "name": "jellllly420",
+      "name": "jiangjianfeng",
       "score": 24
    },
    {
+      "rank": 5,
+      "name": "Yuke Peng",
+      "score": 21
+   },
+   {
+      "rank": 6,
+      "name": "Fabing Li",
+      "score": 21
+   },
+   {
+      "rank": 7,
+      "name": "Shaowei Song",
+      "score": 19
+   },
+   {
       "rank": 8,
-      "name": "Jianfeng Jiang",
-      "score": 22
+      "name": "Hsy-Intel",
+      "score": 9
    },
    {
       "rank": 9,
@@ -46,46 +46,56 @@
    },
    {
       "rank": 10,
-      "name": "Wang Taojie",
+      "name": "Chengjun Chen",
       "score": 8
    },
    {
       "rank": 11,
-      "name": "Marsman1996",
+      "name": "Wang Taojie",
       "score": 8
    },
    {
       "rank": 12,
-      "name": "Carlos L\u00f3pez",
-      "score": 6
-   },
-   {
-      "rank": 13,
       "name": "Ni Shirong",
       "score": 5
    },
    {
+      "rank": 13,
+      "name": "Ruize Tang",
+      "score": 4
+   },
+   {
       "rank": 14,
-      "name": "Chengjun Chen",
-      "score": 5
+      "name": "Marsman1996",
+      "score": 4
    },
    {
       "rank": 15,
-      "name": "Hsy-Intel",
-      "score": 5
-   },
-   {
-      "rank": 16,
       "name": "Thomas Dickson",
       "score": 4
    },
    {
+      "rank": 16,
+      "name": "Ikko Eltociear Ashimine",
+      "score": 2
+   },
+   {
       "rank": 17,
-      "name": "le-monde-bleu",
+      "name": "ZephyrZhang",
       "score": 2
    },
    {
       "rank": 18,
+      "name": "jellllly420",
+      "score": 2
+   },
+   {
+      "rank": 19,
+      "name": "le-monde-bleu",
+      "score": 2
+   },
+   {
+      "rank": 20,
       "name": "Fabing LI",
       "score": 2
    }
