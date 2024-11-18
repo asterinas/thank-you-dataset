@@ -1,18 +1,18 @@
 [
    {
       "rank": 1,
-      "name": "Junyang Zhang",
-      "score": 87
+      "name": "Ruihan Li",
+      "score": 84
    },
    {
       "rank": 2,
-      "name": "Ruihan Li",
-      "score": 45
+      "name": "Junyang Zhang",
+      "score": 55
    },
    {
       "rank": 3,
-      "name": "jiangjianfeng",
-      "score": 28
+      "name": "Wang Siyuan",
+      "score": 31
    },
    {
       "rank": 4,
@@ -21,8 +21,8 @@
    },
    {
       "rank": 5,
-      "name": "Fabing Li",
-      "score": 23
+      "name": "Jianfeng Jiang",
+      "score": 24
    },
    {
       "rank": 6,
@@ -31,77 +31,67 @@
    },
    {
       "rank": 7,
-      "name": "Hsy-Intel",
-      "score": 13
+      "name": "Fabing Li",
+      "score": 19
    },
    {
       "rank": 8,
-      "name": "Chengjun Chen",
-      "score": 12
+      "name": "Ruize Tang",
+      "score": 11
    },
    {
       "rank": 9,
-      "name": "Wang Siyuan",
-      "score": 9
+      "name": "Cautreoxit",
+      "score": 10
    },
    {
       "rank": 10,
-      "name": "Wang Taojie",
-      "score": 8
+      "name": "Chengjun Chen",
+      "score": 9
    },
    {
       "rank": 11,
-      "name": "Qingsong Chen",
-      "score": 6
+      "name": "Hsy-Intel",
+      "score": 8
    },
    {
       "rank": 12,
-      "name": "Ruize Tang",
+      "name": "Marsman1996",
       "score": 6
    },
    {
       "rank": 13,
-      "name": "jellllly420",
+      "name": "Qingsong Chen",
       "score": 6
    },
    {
       "rank": 14,
+      "name": "jellllly420",
+      "score": 6
+   },
+   {
+      "rank": 15,
+      "name": "Wang Taojie",
+      "score": 6
+   },
+   {
+      "rank": 16,
       "name": "Ni Shirong",
       "score": 5
    },
    {
-      "rank": 15,
+      "rank": 17,
       "name": "ZephyrZhang",
       "score": 4
    },
    {
-      "rank": 16,
-      "name": "Marsman1996",
-      "score": 4
-   },
-   {
-      "rank": 17,
+      "rank": 18,
       "name": "Champii1",
       "score": 4
    },
    {
-      "rank": 18,
-      "name": "Cautreoxit",
-      "score": 2
-   },
-   {
       "rank": 19,
       "name": "Ikko Eltociear Ashimine",
-      "score": 2
-   },
-   {
-      "rank": 20,
-      "name": "le-monde-bleu",
-      "score": 2
-   },
-   {
-      "rank": 21,
-      "name": "Fabing LI",
       "score": 2
    }
 ]

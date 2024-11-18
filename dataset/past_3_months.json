@@ -2,17 +2,17 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 316
+      "score": 263
    },
    {
       "rank": 2,
-      "name": "Yuke Peng",
-      "score": 223
+      "name": "Ruihan Li",
+      "score": 246
    },
    {
       "rank": 3,
-      "name": "Ruihan Li",
-      "score": 218
+      "name": "Yuke Peng",
+      "score": 219
    },
    {
       "rank": 4,
@@ -21,58 +21,58 @@
    },
    {
       "rank": 5,
-      "name": "Chengjun Chen",
-      "score": 100
+      "name": "Jianfeng Jiang",
+      "score": 96
    },
    {
       "rank": 6,
       "name": "Fabing Li",
-      "score": 92
+      "score": 68
    },
    {
       "rank": 7,
-      "name": "Jianfeng Jiang",
-      "score": 90
+      "name": "Marsman1996",
+      "score": 60
    },
    {
       "rank": 8,
-      "name": "Marsman1996",
-      "score": 62
+      "name": "Chengjun Chen",
+      "score": 55
    },
    {
       "rank": 9,
-      "name": "jellllly420",
-      "score": 48
-   },
-   {
-      "rank": 10,
       "name": "YanWQ-monad",
       "score": 39
    },
    {
+      "rank": 10,
+      "name": "jellllly420",
+      "score": 32
+   },
+   {
       "rank": 11,
-      "name": "Hsy-Intel",
-      "score": 24
+      "name": "Wang Siyuan",
+      "score": 31
    },
    {
       "rank": 12,
-      "name": "Qingsong Chen",
+      "name": "Cautreoxit",
       "score": 20
    },
    {
       "rank": 13,
-      "name": "Cautreoxit",
-      "score": 12
+      "name": "Qingsong Chen",
+      "score": 20
    },
    {
       "rank": 14,
       "name": "Ruize Tang",
-      "score": 10
+      "score": 15
    },
    {
       "rank": 15,
-      "name": "Wang Siyuan",
-      "score": 9
+      "name": "Hsy-Intel",
+      "score": 13
    },
    {
       "rank": 16,
@@ -132,11 +132,6 @@
    {
       "rank": 27,
       "name": "Yuke Peng",
-      "score": 2
-   },
-   {
-      "rank": 28,
-      "name": "Tate, Hongliang Tian",
       "score": 2
    }
 ]
