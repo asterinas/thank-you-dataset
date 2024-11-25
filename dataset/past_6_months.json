@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 612
+      "score": 608
    },
    {
       "rank": 2,
       "name": "Ruihan Li",
-      "score": 421
+      "score": 465
    },
    {
       "rank": 3,
@@ -17,12 +17,12 @@
    {
       "rank": 4,
       "name": "Jianfeng Jiang",
-      "score": 233
+      "score": 240
    },
    {
       "rank": 5,
       "name": "Chengjun Chen",
-      "score": 210
+      "score": 186
    },
    {
       "rank": 6,
@@ -32,7 +32,7 @@
    {
       "rank": 7,
       "name": "Shaowei Song",
-      "score": 135
+      "score": 137
    },
    {
       "rank": 8,
@@ -42,7 +42,7 @@
    {
       "rank": 9,
       "name": "Marsman1996",
-      "score": 72
+      "score": 74
    },
    {
       "rank": 10,
@@ -52,26 +52,26 @@
    {
       "rank": 11,
       "name": "YanWQ-monad",
-      "score": 65
+      "score": 59
    },
    {
       "rank": 12,
+      "name": "Qingsong Chen",
+      "score": 54
+   },
+   {
+      "rank": 13,
       "name": "jellllly420",
       "score": 53
    },
    {
-      "rank": 13,
-      "name": "Qingsong Chen",
-      "score": 42
-   },
-   {
       "rank": 14,
-      "name": "LI Qing",
-      "score": 37
+      "name": "Wang Siyuan",
+      "score": 41
    },
    {
       "rank": 15,
-      "name": "Wang Siyuan",
+      "name": "LI Qing",
       "score": 34
    },
    {
@@ -92,7 +92,7 @@
    {
       "rank": 19,
       "name": "Ruize Tang",
-      "score": 15
+      "score": 17
    },
    {
       "rank": 20,
@@ -207,11 +207,6 @@
    {
       "rank": 42,
       "name": "mag1cian",
-      "score": 2
-   },
-   {
-      "rank": 43,
-      "name": "HaiQiu1998",
       "score": 2
    }
 ]
