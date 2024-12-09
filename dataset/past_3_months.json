@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 269
+      "score": 289
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 195
+      "score": 193
    },
    {
       "rank": 3,
@@ -16,13 +16,13 @@
    },
    {
       "rank": 4,
-      "name": "Yuke Peng",
-      "score": 88
+      "name": "Shaowei Song",
+      "score": 92
    },
    {
       "rank": 5,
-      "name": "Shaowei Song",
-      "score": 79
+      "name": "Yuke Peng",
+      "score": 78
    },
    {
       "rank": 6,
@@ -31,38 +31,38 @@
    },
    {
       "rank": 7,
-      "name": "Qingsong Chen",
-      "score": 40
+      "name": "Chengjun Chen",
+      "score": 42
    },
    {
       "rank": 8,
       "name": "Marsman1996",
-      "score": 38
+      "score": 40
    },
    {
       "rank": 9,
+      "name": "Qingsong Chen",
+      "score": 40
+   },
+   {
+      "rank": 10,
       "name": "Wang Siyuan",
       "score": 38
    },
    {
-      "rank": 10,
+      "rank": 11,
       "name": "YanWQ-monad",
       "score": 37
    },
    {
-      "rank": 11,
-      "name": "Chengjun Chen",
-      "score": 34
-   },
-   {
       "rank": 12,
-      "name": "Ruize Tang",
-      "score": 28
+      "name": "jellllly420",
+      "score": 33
    },
    {
       "rank": 13,
-      "name": "jellllly420",
-      "score": 28
+      "name": "Ruize Tang",
+      "score": 26
    },
    {
       "rank": 14,
@@ -71,18 +71,18 @@
    },
    {
       "rank": 15,
+      "name": "\u5f90\u542f\u822a",
+      "score": 12
+   },
+   {
+      "rank": 16,
       "name": "Cautreoxit",
       "score": 10
    },
    {
-      "rank": 16,
+      "rank": 17,
       "name": "Wang Taojie",
       "score": 8
-   },
-   {
-      "rank": 17,
-      "name": "Thomas Dickson",
-      "score": 6
    },
    {
       "rank": 18,
@@ -111,16 +111,21 @@
    },
    {
       "rank": 23,
-      "name": "rikosellic",
+      "name": "Thomas Dickson",
       "score": 4
    },
    {
       "rank": 24,
-      "name": "Ikko Eltociear Ashimine",
+      "name": "anbo225",
       "score": 2
    },
    {
       "rank": 25,
+      "name": "Ikko Eltociear Ashimine",
+      "score": 2
+   },
+   {
+      "rank": 26,
       "name": "le-monde-bleu",
       "score": 2
    }
