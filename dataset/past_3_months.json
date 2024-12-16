@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 289
+      "score": 254
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 193
+      "score": 163
    },
    {
       "rank": 3,
@@ -16,38 +16,38 @@
    },
    {
       "rank": 4,
-      "name": "Shaowei Song",
-      "score": 92
+      "name": "\u8d1f\u96ea",
+      "score": 95
    },
    {
       "rank": 5,
-      "name": "Yuke Peng",
-      "score": 78
+      "name": "Shaowei Song",
+      "score": 79
    },
    {
       "rank": 6,
-      "name": "Fabing Li",
-      "score": 60
+      "name": "Yuke Peng",
+      "score": 68
    },
    {
       "rank": 7,
-      "name": "Chengjun Chen",
-      "score": 42
+      "name": "Qingsong Chen",
+      "score": 38
    },
    {
       "rank": 8,
-      "name": "Marsman1996",
-      "score": 40
+      "name": "Wang Siyuan",
+      "score": 38
    },
    {
       "rank": 9,
-      "name": "Qingsong Chen",
-      "score": 40
+      "name": "Ruize Tang",
+      "score": 37
    },
    {
       "rank": 10,
-      "name": "Wang Siyuan",
-      "score": 38
+      "name": "jellllly420",
+      "score": 37
    },
    {
       "rank": 11,
@@ -56,57 +56,57 @@
    },
    {
       "rank": 12,
-      "name": "jellllly420",
-      "score": 33
+      "name": "Marsman1996",
+      "score": 30
    },
    {
       "rank": 13,
-      "name": "Ruize Tang",
-      "score": 26
+      "name": "Chengjun Chen",
+      "score": 22
    },
    {
       "rank": 14,
       "name": "Hsy-Intel",
-      "score": 17
+      "score": 21
    },
    {
       "rank": 15,
       "name": "\u5f90\u542f\u822a",
-      "score": 12
+      "score": 14
    },
    {
       "rank": 16,
+      "name": "Roman Korostinskiy",
+      "score": 12
+   },
+   {
+      "rank": 17,
       "name": "Cautreoxit",
       "score": 10
    },
    {
-      "rank": 17,
+      "rank": 18,
       "name": "Wang Taojie",
       "score": 8
    },
    {
-      "rank": 18,
+      "rank": 19,
       "name": "Carlos L\u00f3pez",
       "score": 6
    },
    {
-      "rank": 19,
+      "rank": 20,
       "name": "Ni Shirong",
       "score": 5
    },
    {
-      "rank": 20,
+      "rank": 21,
       "name": "ZephyrZhang",
       "score": 4
    },
    {
-      "rank": 21,
-      "name": "Champii1",
-      "score": 4
-   },
-   {
       "rank": 22,
-      "name": "Fabing LI",
+      "name": "Champii1",
       "score": 4
    },
    {
@@ -127,6 +127,11 @@
    {
       "rank": 26,
       "name": "le-monde-bleu",
+      "score": 2
+   },
+   {
+      "rank": 27,
+      "name": "Fabing LI",
       "score": 2
    }
 ]
