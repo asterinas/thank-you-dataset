@@ -2,57 +2,57 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 207
+      "score": 205
    },
    {
       "rank": 2,
-      "name": "Qingsong Chen",
-      "score": 158
+      "name": "Junyang Zhang",
+      "score": 161
    },
    {
       "rank": 3,
-      "name": "Junyang Zhang",
-      "score": 148
+      "name": "Qingsong Chen",
+      "score": 150
    },
    {
       "rank": 4,
-      "name": "jiangjianfeng",
-      "score": 76
+      "name": "Fabing Li",
+      "score": 124
    },
    {
       "rank": 5,
-      "name": "Fabing Li",
-      "score": 76
+      "name": "jiangjianfeng",
+      "score": 67
    },
    {
       "rank": 6,
-      "name": "Shaowei Song",
-      "score": 62
-   },
-   {
-      "rank": 7,
       "name": "Zejun Zhao",
       "score": 46
    },
    {
-      "rank": 8,
-      "name": "Ruize Tang",
-      "score": 28
+      "rank": 7,
+      "name": "Shaowei Song",
+      "score": 45
    },
    {
-      "rank": 9,
+      "rank": 8,
       "name": "\u5f90\u542f\u822a",
       "score": 25
    },
    {
-      "rank": 10,
+      "rank": 9,
       "name": "Yuke Peng",
       "score": 23
    },
    {
+      "rank": 10,
+      "name": "Ruize Tang",
+      "score": 17
+   },
+   {
       "rank": 11,
       "name": "Marsman1996",
-      "score": 16
+      "score": 12
    },
    {
       "rank": 12,
@@ -66,18 +66,18 @@
    },
    {
       "rank": 14,
-      "name": "Hsy-Intel",
-      "score": 10
-   },
-   {
-      "rank": 15,
       "name": "Cautreoxit",
       "score": 10
    },
    {
+      "rank": 15,
+      "name": "Hsy-Intel",
+      "score": 6
+   },
+   {
       "rank": 16,
-      "name": "anbo225",
-      "score": 5
+      "name": "LeslieKid",
+      "score": 4
    },
    {
       "rank": 17,
@@ -86,11 +86,21 @@
    },
    {
       "rank": 18,
+      "name": "anbo225",
+      "score": 3
+   },
+   {
+      "rank": 19,
+      "name": "wheatfox",
+      "score": 2
+   },
+   {
+      "rank": 20,
       "name": "Tate, Hongliang Tian",
       "score": 2
    },
    {
-      "rank": 19,
+      "rank": 21,
       "name": "lab-pc-wtj",
       "score": 2
    }

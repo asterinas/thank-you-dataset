@@ -2,55 +2,65 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 74
+      "score": 79
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 39
+      "score": 52
    },
    {
       "rank": 3,
+      "name": "Fabing Li",
+      "score": 50
+   },
+   {
+      "rank": 4,
       "name": "Zejun Zhao",
       "score": 16
    },
    {
-      "rank": 4,
+      "rank": 5,
       "name": "jiangjianfeng",
       "score": 10
    },
    {
-      "rank": 5,
+      "rank": 6,
       "name": "Qingsong Chen",
       "score": 9
    },
    {
-      "rank": 6,
+      "rank": 7,
       "name": "Yuke Peng",
       "score": 8
    },
    {
-      "rank": 7,
+      "rank": 8,
       "name": "Shaowei Song",
       "score": 6
    },
    {
-      "rank": 8,
+      "rank": 9,
+      "name": "LeslieKid",
+      "score": 4
+   },
+   {
+      "rank": 10,
       "name": "Chengjun Chen",
       "score": 3
    },
    {
-      "rank": 9,
+      "rank": 11,
+      "name": "wheatfox",
+      "score": 2
+   },
+   {
+      "rank": 12,
       "name": "Hsy-Intel",
       "score": 2
    },
    {
-      "rank": 10,
-      "name": "Fabing Li",
-      "score": 2
-   },
-   {
-      "rank": 11,
+      "rank": 13,
       "name": "Tate, Hongliang Tian",
       "score": 2
    }
