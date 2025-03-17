@@ -2,77 +2,77 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 502
+      "score": 452
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 354
+      "score": 398
    },
    {
       "rank": 3,
       "name": "Qingsong Chen",
-      "score": 190
+      "score": 188
    },
    {
       "rank": 4,
-      "name": "Fabing Li",
-      "score": 188
+      "name": "\u8d1f\u96ea",
+      "score": 177
    },
    {
       "rank": 5,
       "name": "Jianfeng Jiang",
-      "score": 176
+      "score": 170
    },
    {
       "rank": 6,
       "name": "Shaowei Song",
-      "score": 139
+      "score": 120
    },
    {
       "rank": 7,
       "name": "Yuke Peng",
-      "score": 105
+      "score": 91
    },
    {
       "rank": 8,
       "name": "jellllly420",
-      "score": 74
+      "score": 78
    },
    {
       "rank": 9,
-      "name": "Chengjun Chen",
-      "score": 55
-   },
-   {
-      "rank": 10,
-      "name": "Marsman1996",
-      "score": 52
-   },
-   {
-      "rank": 11,
       "name": "Wang Siyuan",
       "score": 48
    },
    {
-      "rank": 12,
+      "rank": 10,
       "name": "Ruize Tang",
-      "score": 43
+      "score": 41
    },
    {
-      "rank": 13,
+      "rank": 11,
+      "name": "Marsman1996",
+      "score": 40
+   },
+   {
+      "rank": 12,
       "name": "YanWQ-monad",
       "score": 37
    },
    {
-      "rank": 14,
+      "rank": 13,
       "name": "\u5f90\u542f\u822a",
+      "score": 35
+   },
+   {
+      "rank": 14,
+      "name": "Chengjun Chen",
       "score": 35
    },
    {
       "rank": 15,
       "name": "Hsy-Intel",
-      "score": 25
+      "score": 29
    },
    {
       "rank": 16,
@@ -106,22 +106,22 @@
    },
    {
       "rank": 22,
-      "name": "LeslieKid",
+      "name": "Tate, Hongliang Tian",
       "score": 4
    },
    {
       "rank": 23,
-      "name": "ZephyrZhang",
+      "name": "LeslieKid",
       "score": 4
    },
    {
       "rank": 24,
-      "name": "Champii1",
+      "name": "ZephyrZhang",
       "score": 4
    },
    {
       "rank": 25,
-      "name": "Fabing LI",
+      "name": "Champii1",
       "score": 4
    },
    {
@@ -136,22 +136,22 @@
    },
    {
       "rank": 28,
-      "name": "Tate, Hongliang Tian",
-      "score": 2
-   },
-   {
-      "rank": 29,
       "name": "lab-pc-wtj",
       "score": 2
    },
    {
-      "rank": 30,
+      "rank": 29,
       "name": "Ikko Eltociear Ashimine",
       "score": 2
    },
    {
-      "rank": 31,
+      "rank": 30,
       "name": "le-monde-bleu",
+      "score": 2
+   },
+   {
+      "rank": 31,
+      "name": "Fabing LI",
       "score": 2
    }
 ]

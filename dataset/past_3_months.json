@@ -1,13 +1,13 @@
 [
    {
       "rank": 1,
-      "name": "Ruihan Li",
-      "score": 213
+      "name": "Junyang Zhang",
+      "score": 218
    },
    {
       "rank": 2,
-      "name": "Junyang Zhang",
-      "score": 161
+      "name": "Ruihan Li",
+      "score": 191
    },
    {
       "rank": 3,
@@ -17,90 +17,85 @@
    {
       "rank": 4,
       "name": "Fabing Li",
-      "score": 128
+      "score": 78
    },
    {
       "rank": 5,
       "name": "jiangjianfeng",
-      "score": 72
+      "score": 64
    },
    {
       "rank": 6,
       "name": "Shaowei Song",
-      "score": 47
+      "score": 45
    },
    {
       "rank": 7,
       "name": "Zejun Zhao",
-      "score": 41
+      "score": 32
    },
    {
       "rank": 8,
-      "name": "Yuke Peng",
-      "score": 27
+      "name": "js2xxx",
+      "score": 21
    },
    {
       "rank": 9,
-      "name": "js2xxx",
-      "score": 23
+      "name": "Yuke Peng",
+      "score": 18
    },
    {
       "rank": 10,
-      "name": "Ruize Tang",
-      "score": 17
-   },
-   {
-      "rank": 11,
       "name": "Chengjun Chen",
       "score": 13
    },
    {
-      "rank": 12,
-      "name": "Marsman1996",
-      "score": 12
-   },
-   {
-      "rank": 13,
-      "name": "Roman Korostinskiy",
-      "score": 12
-   },
-   {
-      "rank": 14,
+      "rank": 11,
       "name": "Wang Siyuan",
       "score": 10
    },
    {
-      "rank": 15,
+      "rank": 12,
       "name": "Cautreoxit",
       "score": 10
    },
    {
-      "rank": 16,
+      "rank": 13,
+      "name": "Marsman1996",
+      "score": 10
+   },
+   {
+      "rank": 14,
       "name": "Hsy-Intel",
       "score": 8
    },
    {
-      "rank": 17,
+      "rank": 15,
+      "name": "Tate, Hongliang Tian",
+      "score": 4
+   },
+   {
+      "rank": 16,
       "name": "LeslieKid",
       "score": 4
    },
    {
-      "rank": 18,
+      "rank": 17,
       "name": "anbo225",
       "score": 3
    },
    {
-      "rank": 19,
+      "rank": 18,
       "name": "wheatfox",
       "score": 2
    },
    {
-      "rank": 20,
-      "name": "Tate, Hongliang Tian",
+      "rank": 19,
+      "name": "Ruize Tang",
       "score": 2
    },
    {
-      "rank": 21,
+      "rank": 20,
       "name": "lab-pc-wtj",
       "score": 2
    }
