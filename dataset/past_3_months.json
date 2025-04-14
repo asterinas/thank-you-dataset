@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 250
+      "score": 233
    },
    {
       "rank": 2,
@@ -12,27 +12,27 @@
    {
       "rank": 3,
       "name": "Fabing Li",
-      "score": 117
+      "score": 123
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 41
+      "score": 49
    },
    {
       "rank": 5,
       "name": "jiangjianfeng",
-      "score": 38
+      "score": 41
    },
    {
       "rank": 6,
-      "name": "Shaowei Song",
-      "score": 37
+      "name": "Yuke Peng",
+      "score": 36
    },
    {
       "rank": 7,
-      "name": "Yuke Peng",
-      "score": 36
+      "name": "Shaowei Song",
+      "score": 35
    },
    {
       "rank": 8,
@@ -46,51 +46,61 @@
    },
    {
       "rank": 10,
+      "name": "Fabing Li",
+      "score": 14
+   },
+   {
+      "rank": 11,
       "name": "Tate, Hongliang Tian",
       "score": 11
    },
    {
-      "rank": 11,
+      "rank": 12,
       "name": "js2xxx",
       "score": 10
    },
    {
-      "rank": 12,
+      "rank": 13,
       "name": "Qingsong Chen",
       "score": 9
    },
    {
-      "rank": 13,
+      "rank": 14,
       "name": "Cautreoxit",
       "score": 8
    },
    {
-      "rank": 14,
+      "rank": 15,
       "name": "Wang Siyuan",
       "score": 6
    },
    {
-      "rank": 15,
+      "rank": 16,
       "name": "LeslieKid",
       "score": 4
    },
    {
-      "rank": 16,
-      "name": "le-monde-bleu",
-      "score": 2
-   },
-   {
       "rank": 17,
-      "name": "Fabing Li",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 18,
-      "name": "wheatfox",
+      "name": "Caiyi Shyu",
       "score": 2
    },
    {
       "rank": 19,
+      "name": "le-monde-bleu",
+      "score": 2
+   },
+   {
+      "rank": 20,
+      "name": "wheatfox",
+      "score": 2
+   },
+   {
+      "rank": 21,
       "name": "Ruize Tang",
       "score": 2
    }
