@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 265
+      "score": 287
    },
    {
       "rank": 2,
@@ -12,7 +12,7 @@
    {
       "rank": 3,
       "name": "Fabing Li",
-      "score": 145
+      "score": 174
    },
    {
       "rank": 4,
@@ -22,7 +22,7 @@
    {
       "rank": 5,
       "name": "Chengjun Chen",
-      "score": 67
+      "score": 74
    },
    {
       "rank": 6,
@@ -31,18 +31,18 @@
    },
    {
       "rank": 7,
+      "name": "Shaowei Song",
+      "score": 49
+   },
+   {
+      "rank": 8,
       "name": "Zejun Zhao",
       "score": 48
    },
    {
-      "rank": 8,
-      "name": "Shaowei Song",
-      "score": 32
-   },
-   {
       "rank": 9,
       "name": "Hsy-Intel",
-      "score": 20
+      "score": 35
    },
    {
       "rank": 10,
@@ -66,18 +66,18 @@
    },
    {
       "rank": 14,
-      "name": "Cautreoxit",
+      "name": "Zhenchen Wang",
       "score": 8
    },
    {
       "rank": 15,
-      "name": "Wang Siyuan",
-      "score": 6
+      "name": "Cautreoxit",
+      "score": 8
    },
    {
       "rank": 16,
-      "name": "Zhenchen Wang",
-      "score": 4
+      "name": "Wang Siyuan",
+      "score": 6
    },
    {
       "rank": 17,
@@ -102,11 +102,6 @@
    {
       "rank": 21,
       "name": "wheatfox",
-      "score": 2
-   },
-   {
-      "rank": 22,
-      "name": "Ruize Tang",
       "score": 2
    }
 ]
