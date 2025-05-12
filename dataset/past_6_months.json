@@ -2,32 +2,32 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 540
+      "score": 554
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 326
+      "score": 323
    },
    {
       "rank": 3,
       "name": "Fabing Li",
-      "score": 260
+      "score": 248
    },
    {
       "rank": 4,
-      "name": "Jianfeng Jiang",
-      "score": 186
+      "name": "jiangjianfeng",
+      "score": 189
    },
    {
       "rank": 5,
       "name": "Qingsong Chen",
-      "score": 184
+      "score": 178
    },
    {
       "rank": 6,
       "name": "Shaowei Song",
-      "score": 124
+      "score": 109
    },
    {
       "rank": 7,
@@ -36,18 +36,18 @@
    },
    {
       "rank": 8,
-      "name": "Yuke Peng",
-      "score": 88
-   },
-   {
-      "rank": 9,
       "name": "Zejun Zhao",
       "score": 78
    },
    {
+      "rank": 9,
+      "name": "Yuke Peng",
+      "score": 73
+   },
+   {
       "rank": 10,
       "name": "Hsy-Intel",
-      "score": 45
+      "score": 66
    },
    {
       "rank": 11,
@@ -56,23 +56,23 @@
    },
    {
       "rank": 12,
-      "name": "Ruize Tang",
-      "score": 37
-   },
-   {
-      "rank": 13,
       "name": "\u5f90\u542f\u822a",
       "score": 35
    },
    {
+      "rank": 13,
+      "name": "Ruize Tang",
+      "score": 32
+   },
+   {
       "rank": 14,
       "name": "Cautreoxit",
-      "score": 28
+      "score": 26
    },
    {
       "rank": 15,
       "name": "Marsman1996",
-      "score": 24
+      "score": 20
    },
    {
       "rank": 16,
@@ -127,11 +127,6 @@
    {
       "rank": 26,
       "name": "lab-pc-wtj",
-      "score": 2
-   },
-   {
-      "rank": 27,
-      "name": "ZephyrZhang",
       "score": 2
    }
 ]

@@ -1,23 +1,23 @@
 [
    {
       "rank": 1,
-      "name": "Junyang Zhang",
-      "score": 1041
+      "name": "Ruihan Li",
+      "score": 946
    },
    {
       "rank": 2,
-      "name": "Ruihan Li",
-      "score": 909
+      "name": "Junyang Zhang",
+      "score": 935
    },
    {
       "rank": 3,
       "name": "Jianfeng Jiang",
-      "score": 426
+      "score": 429
    },
    {
       "rank": 4,
       "name": "Fabing Li",
-      "score": 409
+      "score": 402
    },
    {
       "rank": 5,
@@ -27,7 +27,7 @@
    {
       "rank": 6,
       "name": "Chengjun Chen",
-      "score": 323
+      "score": 310
    },
    {
       "rank": 7,
@@ -41,13 +41,13 @@
    },
    {
       "rank": 9,
-      "name": "jellllly420",
-      "score": 131
+      "name": "Hsy-Intel",
+      "score": 133
    },
    {
       "rank": 10,
-      "name": "Hsy-Intel",
-      "score": 110
+      "name": "jellllly420",
+      "score": 131
    },
    {
       "rank": 11,
@@ -72,7 +72,7 @@
    {
       "rank": 15,
       "name": "LI Qing",
-      "score": 62
+      "score": 56
    },
    {
       "rank": 16,
@@ -96,12 +96,12 @@
    },
    {
       "rank": 20,
-      "name": "StanPlatinum",
-      "score": 25
+      "name": "Tate, Hongliang Tian",
+      "score": 21
    },
    {
       "rank": 21,
-      "name": "Tate, Hongliang Tian",
+      "name": "Weijie Liu",
       "score": 21
    },
    {
@@ -247,11 +247,6 @@
    {
       "rank": 50,
       "name": "HaiQiu1998",
-      "score": 2
-   },
-   {
-      "rank": 51,
-      "name": "Chuandong Li",
       "score": 2
    }
 ]
