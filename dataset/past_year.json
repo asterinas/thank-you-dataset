@@ -1,18 +1,18 @@
 [
    {
       "rank": 1,
-      "name": "Ruihan Li",
-      "score": 946
+      "name": "Junyang Zhang",
+      "score": 950
    },
    {
       "rank": 2,
-      "name": "Junyang Zhang",
-      "score": 935
+      "name": "Ruihan Li",
+      "score": 941
    },
    {
       "rank": 3,
       "name": "Jianfeng Jiang",
-      "score": 429
+      "score": 416
    },
    {
       "rank": 4,
@@ -27,7 +27,7 @@
    {
       "rank": 6,
       "name": "Chengjun Chen",
-      "score": 310
+      "score": 308
    },
    {
       "rank": 7,
@@ -37,12 +37,12 @@
    {
       "rank": 8,
       "name": "Qingsong Chen",
-      "score": 220
+      "score": 224
    },
    {
       "rank": 9,
       "name": "Hsy-Intel",
-      "score": 133
+      "score": 139
    },
    {
       "rank": 10,
@@ -56,43 +56,43 @@
    },
    {
       "rank": 12,
-      "name": "YanWQ-monad",
-      "score": 83
-   },
-   {
-      "rank": 13,
       "name": "Anmin Liu",
       "score": 82
    },
    {
+      "rank": 13,
+      "name": "YanWQ-monad",
+      "score": 65
+   },
+   {
       "rank": 14,
-      "name": "plucky",
-      "score": 66
-   },
-   {
-      "rank": 15,
-      "name": "LI Qing",
-      "score": 56
-   },
-   {
-      "rank": 16,
       "name": "Wang Siyuan",
       "score": 51
    },
    {
-      "rank": 17,
+      "rank": 15,
       "name": "Ruize Tang",
       "score": 45
    },
    {
-      "rank": 18,
+      "rank": 16,
       "name": "Cautreoxit",
       "score": 38
    },
    {
-      "rank": 19,
+      "rank": 17,
+      "name": "LI Qing",
+      "score": 37
+   },
+   {
+      "rank": 18,
       "name": "\u5f90\u542f\u822a",
       "score": 35
+   },
+   {
+      "rank": 19,
+      "name": "Zhenchen Wang",
+      "score": 26
    },
    {
       "rank": 20,
