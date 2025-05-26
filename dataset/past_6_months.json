@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 520
+      "score": 495
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 338
+      "score": 375
    },
    {
       "rank": 3,
@@ -16,18 +16,18 @@
    },
    {
       "rank": 4,
-      "name": "jiangjianfeng",
-      "score": 183
+      "name": "Qingsong Chen",
+      "score": 174
    },
    {
       "rank": 5,
-      "name": "Qingsong Chen",
-      "score": 182
+      "name": "jiangjianfeng",
+      "score": 170
    },
    {
       "rank": 6,
       "name": "Shaowei Song",
-      "score": 107
+      "score": 105
    },
    {
       "rank": 7,
@@ -42,7 +42,7 @@
    {
       "rank": 9,
       "name": "Yuke Peng",
-      "score": 73
+      "score": 75
    },
    {
       "rank": 10,
@@ -57,7 +57,7 @@
    {
       "rank": 12,
       "name": "Ruize Tang",
-      "score": 30
+      "score": 24
    },
    {
       "rank": 13,
@@ -67,27 +67,27 @@
    {
       "rank": 14,
       "name": "Marsman1996",
-      "score": 18
+      "score": 16
    },
    {
       "rank": 15,
-      "name": "Wang Siyuan",
-      "score": 17
-   },
-   {
-      "rank": 16,
       "name": "Fabing Li",
       "score": 14
    },
    {
-      "rank": 17,
+      "rank": 16,
       "name": "Tate, Hongliang Tian",
       "score": 13
    },
    {
-      "rank": 18,
+      "rank": 17,
       "name": "Roman Korostinskiy",
       "score": 12
+   },
+   {
+      "rank": 18,
+      "name": "Wang Siyuan",
+      "score": 10
    },
    {
       "rank": 19,
@@ -106,26 +106,31 @@
    },
    {
       "rank": 22,
-      "name": "Zhe Tang",
+      "name": "stuuupidcat",
       "score": 2
    },
    {
       "rank": 23,
-      "name": "Caiyi Shyu",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 24,
-      "name": "le-monde-bleu",
+      "name": "Caiyi Shyu",
       "score": 2
    },
    {
       "rank": 25,
-      "name": "wheatfox",
+      "name": "le-monde-bleu",
       "score": 2
    },
    {
       "rank": 26,
+      "name": "wheatfox",
+      "score": 2
+   },
+   {
+      "rank": 27,
       "name": "lab-pc-wtj",
       "score": 2
    }
