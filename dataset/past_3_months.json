@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 288
+      "score": 302
    },
    {
       "rank": 2,
@@ -12,7 +12,7 @@
    {
       "rank": 3,
       "name": "Fabing Li",
-      "score": 172
+      "score": 124
    },
    {
       "rank": 4,
@@ -42,7 +42,7 @@
    {
       "rank": 9,
       "name": "Zejun Zhao",
-      "score": 32
+      "score": 36
    },
    {
       "rank": 10,
@@ -102,11 +102,6 @@
    {
       "rank": 21,
       "name": "le-monde-bleu",
-      "score": 2
-   },
-   {
-      "rank": 22,
-      "name": "wheatfox",
       "score": 2
    }
 ]
