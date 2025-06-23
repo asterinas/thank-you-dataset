@@ -2,17 +2,17 @@
    {
       "rank": 1,
       "name": "Junyang Zhang",
-      "score": 1658
+      "score": 1666
    },
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 1498
+      "score": 1508
    },
    {
       "rank": 3,
       "name": "Ruihan Li",
-      "score": 1283
+      "score": 1316
    },
    {
       "rank": 4,
@@ -57,7 +57,7 @@
    {
       "rank": 12,
       "name": "Hsy-Intel",
-      "score": 216
+      "score": 218
    },
    {
       "rank": 13,
@@ -67,17 +67,17 @@
    {
       "rank": 14,
       "name": "Marsman1996",
-      "score": 96
+      "score": 108
    },
    {
       "rank": 15,
-      "name": "YanWQ-monad",
-      "score": 85
+      "name": "Wang Siyuan",
+      "score": 92
    },
    {
       "rank": 16,
-      "name": "Wang Siyuan",
-      "score": 83
+      "name": "YanWQ-monad",
+      "score": 85
    },
    {
       "rank": 17,
@@ -216,61 +216,66 @@
    },
    {
       "rank": 44,
-      "name": "stuuupidcat",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 45,
-      "name": "Zhe Tang",
+      "name": "stuuupidcat",
       "score": 2
    },
    {
       "rank": 46,
-      "name": "Caiyi Shyu",
-      "score": 2
-   },
-   {
-      "rank": 47,
-      "name": "wheatfox",
-      "score": 2
-   },
-   {
-      "rank": 48,
-      "name": "lab-pc-wtj",
-      "score": 2
-   },
-   {
-      "rank": 49,
-      "name": "Ikko Eltociear Ashimine",
-      "score": 2
-   },
-   {
-      "rank": 50,
-      "name": "Weijie Liu",
-      "score": 2
-   },
-   {
-      "rank": 51,
       "name": "Zhe Tang",
       "score": 2
    },
    {
+      "rank": 47,
+      "name": "Caiyi Shyu",
+      "score": 2
+   },
+   {
+      "rank": 48,
+      "name": "wheatfox",
+      "score": 2
+   },
+   {
+      "rank": 49,
+      "name": "lab-pc-wtj",
+      "score": 2
+   },
+   {
+      "rank": 50,
+      "name": "Ikko Eltociear Ashimine",
+      "score": 2
+   },
+   {
+      "rank": 51,
+      "name": "Weijie Liu",
+      "score": 2
+   },
+   {
       "rank": 52,
-      "name": "mag1cian",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 53,
-      "name": "HaiQiu1998",
+      "name": "mag1cian",
       "score": 2
    },
    {
       "rank": 54,
-      "name": "Jiacai Liu",
+      "name": "HaiQiu1998",
       "score": 2
    },
    {
       "rank": 55,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 56,
       "name": "skpupil",
       "score": 2
    }

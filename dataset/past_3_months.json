@@ -2,72 +2,72 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 338
+      "score": 308
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 205
+      "score": 178
    },
    {
       "rank": 3,
-      "name": "Fabing Li",
-      "score": 120
+      "name": "jiangjianfeng",
+      "score": 124
    },
    {
       "rank": 4,
-      "name": "jiangjianfeng",
-      "score": 118
+      "name": "Fabing Li",
+      "score": 101
    },
    {
       "rank": 5,
       "name": "Chengjun Chen",
-      "score": 93
+      "score": 78
    },
    {
       "rank": 6,
-      "name": "Hsy-Intel",
-      "score": 60
-   },
-   {
-      "rank": 7,
       "name": "Qingsong Chen",
       "score": 54
    },
    {
+      "rank": 7,
+      "name": "Hsy-Intel",
+      "score": 50
+   },
+   {
       "rank": 8,
-      "name": "Yuke Peng",
-      "score": 48
-   },
-   {
-      "rank": 9,
-      "name": "Zejun Zhao",
-      "score": 44
-   },
-   {
-      "rank": 10,
       "name": "Shaowei Song",
       "score": 41
    },
    {
-      "rank": 11,
+      "rank": 9,
+      "name": "Zejun Zhao",
+      "score": 40
+   },
+   {
+      "rank": 10,
       "name": "Wang Siyuan",
-      "score": 27
+      "score": 36
+   },
+   {
+      "rank": 11,
+      "name": "Yuke Peng",
+      "score": 31
    },
    {
       "rank": 12,
+      "name": "Marsman1996",
+      "score": 18
+   },
+   {
+      "rank": 13,
       "name": "Cautreoxit",
       "score": 17
    },
    {
-      "rank": 13,
+      "rank": 14,
       "name": "Fabing Li",
       "score": 14
-   },
-   {
-      "rank": 14,
-      "name": "Tate, Hongliang Tian",
-      "score": 9
    },
    {
       "rank": 15,
@@ -76,8 +76,8 @@
    },
    {
       "rank": 16,
-      "name": "Marsman1996",
-      "score": 6
+      "name": "Philipp Schuster",
+      "score": 2
    },
    {
       "rank": 17,
@@ -86,16 +86,21 @@
    },
    {
       "rank": 18,
-      "name": "Zhe Tang",
+      "name": "Tate, Hongliang Tian",
       "score": 2
    },
    {
       "rank": 19,
-      "name": "Caiyi Shyu",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 20,
+      "name": "Caiyi Shyu",
+      "score": 2
+   },
+   {
+      "rank": 21,
       "name": "le-monde-bleu",
       "score": 2
    }
