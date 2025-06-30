@@ -2,27 +2,27 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 137
+      "score": 159
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 110
+      "score": 83
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 43
+      "score": 59
    },
    {
       "rank": 4,
       "name": "Qingsong Chen",
-      "score": 38
+      "score": 50
    },
    {
       "rank": 5,
       "name": "Wang Siyuan",
-      "score": 36
+      "score": 44
    },
    {
       "rank": 6,
@@ -37,7 +37,7 @@
    {
       "rank": 8,
       "name": "Zejun Zhao",
-      "score": 16
+      "score": 12
    },
    {
       "rank": 9,
@@ -51,6 +51,11 @@
    },
    {
       "rank": 11,
+      "name": "js2xxx",
+      "score": 2
+   },
+   {
+      "rank": 12,
       "name": "Philipp Schuster",
       "score": 2
    }
