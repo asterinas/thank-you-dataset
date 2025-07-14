@@ -12,32 +12,32 @@
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 139
+      "score": 144
    },
    {
       "rank": 4,
       "name": "Qingsong Chen",
-      "score": 91
+      "score": 95
    },
    {
       "rank": 5,
       "name": "Chengjun Chen",
-      "score": 69
+      "score": 63
    },
    {
       "rank": 6,
       "name": "Fabing Li",
-      "score": 59
+      "score": 53
    },
    {
       "rank": 7,
-      "name": "Wang Siyuan",
+      "name": "Hsy-Intel",
       "score": 52
    },
    {
       "rank": 8,
-      "name": "Hsy-Intel",
-      "score": 50
+      "name": "Wang Siyuan",
+      "score": 52
    },
    {
       "rank": 9,
@@ -61,23 +61,23 @@
    },
    {
       "rank": 13,
-      "name": "Fabian LI",
-      "score": 12
-   },
-   {
-      "rank": 14,
       "name": "Cautreoxit",
       "score": 9
    },
    {
-      "rank": 15,
+      "rank": 14,
       "name": "Zhenchen Wang",
       "score": 8
    },
    {
-      "rank": 16,
+      "rank": 15,
       "name": "js2xxx",
       "score": 7
+   },
+   {
+      "rank": 16,
+      "name": "yuankunzhang",
+      "score": 3
    },
    {
       "rank": 17,
@@ -97,16 +97,6 @@
    {
       "rank": 20,
       "name": "Tate, Hongliang Tian",
-      "score": 2
-   },
-   {
-      "rank": 21,
-      "name": "Zhe Tang",
-      "score": 2
-   },
-   {
-      "rank": 22,
-      "name": "Caiyi Shyu",
       "score": 2
    }
 ]

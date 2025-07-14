@@ -7,12 +7,12 @@
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 1534
+      "score": 1542
    },
    {
       "rank": 3,
       "name": "Ruihan Li",
-      "score": 1376
+      "score": 1378
    },
    {
       "rank": 4,
@@ -22,7 +22,7 @@
    {
       "rank": 5,
       "name": "Chengjun Chen",
-      "score": 521
+      "score": 523
    },
    {
       "rank": 6,
@@ -42,7 +42,7 @@
    {
       "rank": 9,
       "name": "Qingsong Chen",
-      "score": 303
+      "score": 307
    },
    {
       "rank": 10,
@@ -57,7 +57,7 @@
    {
       "rank": 12,
       "name": "Hsy-Intel",
-      "score": 218
+      "score": 220
    },
    {
       "rank": 13,
@@ -216,71 +216,76 @@
    },
    {
       "rank": 44,
+      "name": "yuankunzhang",
+      "score": 3
+   },
+   {
+      "rank": 45,
       "name": "Wei Zhang",
       "score": 2
    },
    {
-      "rank": 45,
+      "rank": 46,
       "name": "Philipp Schuster",
       "score": 2
    },
    {
-      "rank": 46,
+      "rank": 47,
       "name": "stuuupidcat",
       "score": 2
    },
    {
-      "rank": 47,
-      "name": "Zhe Tang",
-      "score": 2
-   },
-   {
       "rank": 48,
-      "name": "Caiyi Shyu",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 49,
-      "name": "wheatfox",
+      "name": "Caiyi Shyu",
       "score": 2
    },
    {
       "rank": 50,
-      "name": "lab-pc-wtj",
+      "name": "wheatfox",
       "score": 2
    },
    {
       "rank": 51,
-      "name": "Ikko Eltociear Ashimine",
+      "name": "lab-pc-wtj",
       "score": 2
    },
    {
       "rank": 52,
-      "name": "Weijie Liu",
+      "name": "Ikko Eltociear Ashimine",
       "score": 2
    },
    {
       "rank": 53,
-      "name": "Zhe Tang",
+      "name": "Weijie Liu",
       "score": 2
    },
    {
       "rank": 54,
-      "name": "mag1cian",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 55,
-      "name": "HaiQiu1998",
+      "name": "mag1cian",
       "score": 2
    },
    {
       "rank": 56,
-      "name": "Jiacai Liu",
+      "name": "HaiQiu1998",
       "score": 2
    },
    {
       "rank": 57,
+      "name": "Jiacai Liu",
+      "score": 2
+   },
+   {
+      "rank": 58,
       "name": "skpupil",
       "score": 2
    }
