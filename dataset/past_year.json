@@ -2,17 +2,17 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 1095
+      "score": 1076
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 864
+      "score": 843
    },
    {
       "rank": 3,
       "name": "Jianfeng Jiang",
-      "score": 380
+      "score": 373
    },
    {
       "rank": 4,
@@ -22,22 +22,22 @@
    {
       "rank": 5,
       "name": "Yuke Peng",
-      "score": 348
+      "score": 328
    },
    {
       "rank": 6,
       "name": "Qingsong Chen",
-      "score": 301
+      "score": 306
    },
    {
       "rank": 7,
       "name": "Chengjun Chen",
-      "score": 244
+      "score": 306
    },
    {
       "rank": 8,
       "name": "Shaowei Song",
-      "score": 238
+      "score": 236
    },
    {
       "rank": 9,
@@ -47,12 +47,12 @@
    {
       "rank": 10,
       "name": "Hsy-Intel",
-      "score": 123
+      "score": 121
    },
    {
       "rank": 11,
       "name": "Marsman1996",
-      "score": 108
+      "score": 114
    },
    {
       "rank": 12,
@@ -61,8 +61,8 @@
    },
    {
       "rank": 13,
-      "name": "YanWQ-monad",
-      "score": 49
+      "name": "Ruize Tang",
+      "score": 47
    },
    {
       "rank": 14,
@@ -71,8 +71,8 @@
    },
    {
       "rank": 15,
-      "name": "Ruize Tang",
-      "score": 45
+      "name": "YanWQ-monad",
+      "score": 47
    },
    {
       "rank": 16,
@@ -166,61 +166,66 @@
    },
    {
       "rank": 34,
-      "name": "Wei Zhang",
+      "name": "\u738b\u82f1\u6cf0",
       "score": 2
    },
    {
       "rank": 35,
-      "name": "Philipp Schuster",
+      "name": "Wei Zhang",
       "score": 2
    },
    {
       "rank": 36,
-      "name": "stuuupidcat",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 37,
-      "name": "Zhe Tang",
+      "name": "stuuupidcat",
       "score": 2
    },
    {
       "rank": 38,
-      "name": "Caiyi Shyu",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 39,
-      "name": "wheatfox",
+      "name": "Caiyi Shyu",
       "score": 2
    },
    {
       "rank": 40,
-      "name": "lab-pc-wtj",
+      "name": "wheatfox",
       "score": 2
    },
    {
       "rank": 41,
-      "name": "Ikko Eltociear Ashimine",
+      "name": "lab-pc-wtj",
       "score": 2
    },
    {
       "rank": 42,
-      "name": "Yuke Peng",
+      "name": "Ikko Eltociear Ashimine",
       "score": 2
    },
    {
       "rank": 43,
-      "name": "Weijie Liu",
+      "name": "Yuke Peng",
       "score": 2
    },
    {
       "rank": 44,
-      "name": "StanPlatinum",
+      "name": "Weijie Liu",
       "score": 2
    },
    {
       "rank": 45,
+      "name": "StanPlatinum",
+      "score": 2
+   },
+   {
+      "rank": 46,
       "name": "hongwen.chw",
       "score": 2
    }

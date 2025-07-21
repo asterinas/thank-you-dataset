@@ -2,32 +2,32 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 554
+      "score": 581
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 351
+      "score": 349
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 185
+      "score": 191
    },
    {
       "rank": 4,
-      "name": "Fabing Li",
-      "score": 176
+      "name": "Chengjun Chen",
+      "score": 174
    },
    {
       "rank": 5,
-      "name": "Chengjun Chen",
-      "score": 112
+      "name": "Fabing Li",
+      "score": 174
    },
    {
       "rank": 6,
       "name": "Qingsong Chen",
-      "score": 104
+      "score": 115
    },
    {
       "rank": 7,
@@ -52,12 +52,12 @@
    {
       "rank": 11,
       "name": "Shaowei Song",
-      "score": 55
+      "score": 52
    },
    {
       "rank": 12,
       "name": "Marsman1996",
-      "score": 18
+      "score": 24
    },
    {
       "rank": 13,
@@ -86,52 +86,57 @@
    },
    {
       "rank": 18,
-      "name": "LeslieKid",
+      "name": "Ruize Tang",
       "score": 4
    },
    {
       "rank": 19,
+      "name": "LeslieKid",
+      "score": 4
+   },
+   {
+      "rank": 20,
       "name": "yuankunzhang",
       "score": 3
    },
    {
-      "rank": 20,
-      "name": "Wei Zhang",
-      "score": 2
-   },
-   {
       "rank": 21,
-      "name": "Philipp Schuster",
+      "name": "\u738b\u82f1\u6cf0",
       "score": 2
    },
    {
       "rank": 22,
-      "name": "stuuupidcat",
+      "name": "Wei Zhang",
       "score": 2
    },
    {
       "rank": 23,
-      "name": "Zhe Tang",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 24,
-      "name": "Caiyi Shyu",
+      "name": "stuuupidcat",
       "score": 2
    },
    {
       "rank": 25,
-      "name": "le-monde-bleu",
+      "name": "Zhe Tang",
       "score": 2
    },
    {
       "rank": 26,
-      "name": "wheatfox",
+      "name": "Caiyi Shyu",
       "score": 2
    },
    {
       "rank": 27,
-      "name": "Ruize Tang",
+      "name": "le-monde-bleu",
+      "score": 2
+   },
+   {
+      "rank": 28,
+      "name": "wheatfox",
       "score": 2
    }
 ]
