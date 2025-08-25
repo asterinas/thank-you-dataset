@@ -2,27 +2,27 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 323
+      "score": 310
    },
    {
       "rank": 2,
-      "name": "Junyang Zhang",
-      "score": 131
+      "name": "Chengjun Chen",
+      "score": 147
    },
    {
       "rank": 3,
-      "name": "Chengjun Chen",
-      "score": 127
-   },
-   {
-      "rank": 4,
       "name": "jiangjianfeng",
       "score": 119
    },
    {
-      "rank": 5,
+      "rank": 4,
       "name": "Qingsong Chen",
-      "score": 113
+      "score": 111
+   },
+   {
+      "rank": 5,
+      "name": "Junyang Zhang",
+      "score": 94
    },
    {
       "rank": 6,
@@ -37,22 +37,22 @@
    {
       "rank": 8,
       "name": "Zejun Zhao",
-      "score": 35
+      "score": 42
    },
    {
       "rank": 9,
       "name": "Tate, Hongliang Tian",
-      "score": 32
+      "score": 34
    },
    {
       "rank": 10,
-      "name": "Marsman1996",
-      "score": 27
+      "name": "Hsy-Intel",
+      "score": 28
    },
    {
       "rank": 11,
-      "name": "Hsy-Intel",
-      "score": 26
+      "name": "Marsman1996",
+      "score": 27
    },
    {
       "rank": 12,
@@ -61,23 +61,23 @@
    },
    {
       "rank": 13,
+      "name": "Tao Su",
+      "score": 11
+   },
+   {
+      "rank": 14,
+      "name": "Arthur Paulino",
+      "score": 9
+   },
+   {
+      "rank": 15,
       "name": "Yang Zhichao",
       "score": 9
    },
    {
-      "rank": 14,
+      "rank": 16,
       "name": "js2xxx",
       "score": 7
-   },
-   {
-      "rank": 15,
-      "name": "Arthur Paulino",
-      "score": 6
-   },
-   {
-      "rank": 16,
-      "name": "Tao Su",
-      "score": 5
    },
    {
       "rank": 17,
@@ -91,17 +91,17 @@
    },
    {
       "rank": 19,
-      "name": "Yuke Peng",
-      "score": 4
-   },
-   {
-      "rank": 20,
       "name": "yuankunzhang",
       "score": 3
    },
    {
-      "rank": 21,
+      "rank": 20,
       "name": "Tao Su",
+      "score": 2
+   },
+   {
+      "rank": 21,
+      "name": "Yuke Peng",
       "score": 2
    },
    {
@@ -112,11 +112,6 @@
    {
       "rank": 23,
       "name": "Philipp Schuster",
-      "score": 2
-   },
-   {
-      "rank": 24,
-      "name": "stuuupidcat",
       "score": 2
    }
 ]
