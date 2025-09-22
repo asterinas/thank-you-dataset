@@ -2,57 +2,57 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 310
+      "score": 315
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 150
+      "score": 145
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 112
+      "score": 105
    },
    {
       "rank": 4,
-      "name": "\u738b\u82f1\u6cf0",
+      "name": "Qingsong Chen",
       "score": 81
    },
    {
       "rank": 5,
-      "name": "Qingsong Chen",
-      "score": 77
+      "name": "\u738b\u82f1\u6cf0",
+      "score": 81
    },
    {
       "rank": 6,
-      "name": "Junyang Zhang",
-      "score": 56
+      "name": "Tate, Hongliang Tian",
+      "score": 66
    },
    {
       "rank": 7,
       "name": "Zejun Zhao",
-      "score": 44
+      "score": 48
    },
    {
       "rank": 8,
-      "name": "Tate, Hongliang Tian",
-      "score": 41
+      "name": "Wang Siyuan",
+      "score": 46
    },
    {
       "rank": 9,
-      "name": "Wang Siyuan",
-      "score": 38
+      "name": "Yuke Peng",
+      "score": 42
    },
    {
       "rank": 10,
-      "name": "Hsy-Intel",
-      "score": 24
+      "name": "Junyang Zhang",
+      "score": 42
    },
    {
       "rank": 11,
-      "name": "Marsman1996",
-      "score": 21
+      "name": "Hsy-Intel",
+      "score": 32
    },
    {
       "rank": 12,
@@ -71,62 +71,57 @@
    },
    {
       "rank": 15,
+      "name": "Marsman1996",
+      "score": 13
+   },
+   {
+      "rank": 16,
       "name": "Yang Zhichao",
       "score": 11
    },
    {
-      "rank": 16,
+      "rank": 17,
       "name": "Cautreoxit",
       "score": 9
    },
    {
-      "rank": 17,
+      "rank": 18,
       "name": "Zhe Tang",
       "score": 7
    },
    {
-      "rank": 18,
+      "rank": 19,
       "name": "js2xxx",
       "score": 7
    },
    {
-      "rank": 19,
+      "rank": 20,
       "name": "YanWQ-monad",
       "score": 5
    },
    {
-      "rank": 20,
+      "rank": 21,
       "name": "Wei Zhang",
       "score": 4
    },
    {
-      "rank": 21,
+      "rank": 22,
       "name": "yuankunzhang",
       "score": 3
    },
    {
-      "rank": 22,
+      "rank": 23,
       "name": "zhuowei shao",
       "score": 2
    },
    {
-      "rank": 23,
-      "name": "Tao Su",
-      "score": 2
-   },
-   {
       "rank": 24,
-      "name": "Yuke Peng",
+      "name": "Tao Su",
       "score": 2
    },
    {
       "rank": 25,
       "name": "Ruize Tang",
-      "score": 2
-   },
-   {
-      "rank": 26,
-      "name": "Philipp Schuster",
       "score": 2
    }
 ]
