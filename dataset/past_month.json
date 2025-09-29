@@ -2,31 +2,31 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 128
+      "score": 118
    },
    {
       "rank": 2,
       "name": "Yuke Peng",
-      "score": 40
+      "score": 44
    },
    {
       "rank": 3,
       "name": "Tate, Hongliang Tian",
-      "score": 32
+      "score": 36
    },
    {
       "rank": 4,
-      "name": "jiangjianfeng",
-      "score": 29
+      "name": "Chengjun Chen",
+      "score": 35
    },
    {
       "rank": 5,
-      "name": "Zejun Zhao",
-      "score": 29
+      "name": "jiangjianfeng",
+      "score": 32
    },
    {
       "rank": 6,
-      "name": "Chengjun Chen",
+      "name": "Wang Siyuan",
       "score": 22
    },
    {
@@ -36,47 +36,47 @@
    },
    {
       "rank": 8,
-      "name": "Wang Siyuan",
-      "score": 19
+      "name": "Zejun Zhao",
+      "score": 20
    },
    {
       "rank": 9,
+      "name": "Yang Zhichao",
+      "score": 18
+   },
+   {
+      "rank": 10,
       "name": "Zhe Tang",
       "score": 13
    },
    {
-      "rank": 10,
-      "name": "Hsy-Intel",
+      "rank": 11,
+      "name": "Tao Su",
       "score": 10
    },
    {
-      "rank": 11,
-      "name": "Qingsong Chen",
-      "score": 8
-   },
-   {
       "rank": 12,
-      "name": "Tao Su",
-      "score": 8
+      "name": "Qingsong Chen",
+      "score": 10
    },
    {
       "rank": 13,
+      "name": "Hsy-Intel",
+      "score": 8
+   },
+   {
+      "rank": 14,
       "name": "Zhe Tang",
       "score": 7
    },
    {
-      "rank": 14,
-      "name": "Arthur Paulino",
-      "score": 5
-   },
-   {
       "rank": 15,
-      "name": "zhuowei shao",
-      "score": 2
+      "name": "Arthur Paulino",
+      "score": 3
    },
    {
       "rank": 16,
-      "name": "Yang Zhichao",
+      "name": "zhuowei shao",
       "score": 2
    }
 ]
