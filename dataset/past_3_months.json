@@ -2,32 +2,32 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 341
+      "score": 355
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 170
+      "score": 165
    },
    {
       "rank": 3,
       "name": "Zejun Zhao",
-      "score": 123
+      "score": 115
    },
    {
       "rank": 4,
       "name": "jiangjianfeng",
-      "score": 88
+      "score": 106
    },
    {
       "rank": 5,
       "name": "Tate, Hongliang Tian",
-      "score": 87
+      "score": 71
    },
    {
       "rank": 6,
       "name": "Wang Siyuan",
-      "score": 47
+      "score": 58
    },
    {
       "rank": 7,
@@ -47,12 +47,12 @@
    {
       "rank": 10,
       "name": "Junyang Zhang",
-      "score": 35
+      "score": 32
    },
    {
       "rank": 11,
       "name": "Hsy-Intel",
-      "score": 30
+      "score": 28
    },
    {
       "rank": 12,
@@ -81,26 +81,36 @@
    },
    {
       "rank": 17,
-      "name": "Wei Zhang",
+      "name": "wyt8",
       "score": 5
    },
    {
       "rank": 18,
+      "name": "Wei Zhang",
+      "score": 5
+   },
+   {
+      "rank": 19,
       "name": "zjp",
       "score": 4
    },
    {
-      "rank": 19,
-      "name": "Ruize Tang",
-      "score": 2
-   },
-   {
       "rank": 20,
-      "name": "zhuowei shao",
+      "name": "Hang Shu",
       "score": 2
    },
    {
       "rank": 21,
+      "name": "Ruize Tang",
+      "score": 2
+   },
+   {
+      "rank": 22,
+      "name": "zhuowei shao",
+      "score": 2
+   },
+   {
+      "rank": 23,
       "name": "Tao Su",
       "score": 2
    }
