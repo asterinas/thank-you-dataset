@@ -2,97 +2,97 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 1255
+      "score": 1246
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 529
+      "score": 608
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 452
+      "score": 482
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 440
+      "score": 463
    },
    {
       "rank": 5,
       "name": "Qingsong Chen",
-      "score": 334
+      "score": 345
    },
    {
       "rank": 6,
-      "name": "Fabing Li",
-      "score": 248
+      "name": "Zejun Zhao",
+      "score": 216
    },
    {
       "rank": 7,
-      "name": "Zejun Zhao",
-      "score": 220
+      "name": "Fabing Li",
+      "score": 208
    },
    {
       "rank": 8,
       "name": "Wang Siyuan",
-      "score": 203
+      "score": 207
    },
    {
       "rank": 9,
       "name": "Tao Su",
-      "score": 149
+      "score": 167
    },
    {
       "rank": 10,
       "name": "Tate, Hongliang Tian",
-      "score": 125
+      "score": 149
    },
    {
       "rank": 11,
       "name": "Yuke Peng",
-      "score": 125
+      "score": 121
    },
    {
       "rank": 12,
       "name": "Hsy-Intel",
-      "score": 114
+      "score": 110
    },
    {
       "rank": 13,
       "name": "Cautreoxit",
-      "score": 99
+      "score": 101
    },
    {
       "rank": 14,
-      "name": "Shaowei Song",
-      "score": 88
+      "name": "\u738b\u82f1\u6cf0",
+      "score": 93
    },
    {
       "rank": 15,
-      "name": "\u738b\u82f1\u6cf0",
+      "name": "Shaowei Song",
       "score": 86
    },
    {
       "rank": 16,
-      "name": "Zhe Tang",
+      "name": "vvsv",
       "score": 44
    },
    {
       "rank": 17,
+      "name": "Zhe Tang",
+      "score": 44
+   },
+   {
+      "rank": 18,
       "name": "Zhenchen Wang",
       "score": 39
    },
    {
-      "rank": 18,
-      "name": "Marsman1996",
-      "score": 39
-   },
-   {
       "rank": 19,
-      "name": "js2xxx",
-      "score": 30
+      "name": "Marsman1996",
+      "score": 37
    },
    {
       "rank": 20,
@@ -101,33 +101,33 @@
    },
    {
       "rank": 21,
+      "name": "js2xxx",
+      "score": 28
+   },
+   {
+      "rank": 22,
       "name": "Arthur Paulino",
       "score": 22
    },
    {
-      "rank": 22,
-      "name": "Ruize Tang",
-      "score": 21
-   },
-   {
       "rank": 23,
-      "name": "Wei Zhang",
-      "score": 14
+      "name": "Ruize Tang",
+      "score": 19
    },
    {
       "rank": 24,
+      "name": "Wei Zhang",
+      "score": 18
+   },
+   {
+      "rank": 25,
       "name": "Fabing Li",
       "score": 14
    },
    {
-      "rank": 25,
+      "rank": 26,
       "name": "Roman Korostinskiy",
       "score": 12
-   },
-   {
-      "rank": 26,
-      "name": "vvsv",
-      "score": 10
    },
    {
       "rank": 27,
@@ -146,66 +146,81 @@
    },
    {
       "rank": 30,
-      "name": "LeslieKid",
+      "name": "Chaoqun Zheng",
       "score": 4
    },
    {
       "rank": 31,
-      "name": "wheatfox",
-      "score": 3
+      "name": "LeslieKid",
+      "score": 4
    },
    {
       "rank": 32,
-      "name": "yuankunzhang",
+      "name": "wheatfox",
       "score": 3
    },
    {
       "rank": 33,
-      "name": "anbo225",
+      "name": "yuankunzhang",
       "score": 3
    },
    {
       "rank": 34,
-      "name": "Hang Shu",
-      "score": 2
+      "name": "anbo225",
+      "score": 3
    },
    {
       "rank": 35,
-      "name": "zhuowei shao",
+      "name": "John Hughes",
       "score": 2
    },
    {
       "rank": 36,
-      "name": "Tao Su",
+      "name": "Calvin",
       "score": 2
    },
    {
       "rank": 37,
-      "name": "Philipp Schuster",
+      "name": "Hang Shu",
       "score": 2
    },
    {
       "rank": 38,
-      "name": "stuuupidcat",
+      "name": "zhuowei shao",
       "score": 2
    },
    {
       "rank": 39,
-      "name": "Caiyi Shyu",
+      "name": "Tao Su",
       "score": 2
    },
    {
       "rank": 40,
-      "name": "le-monde-bleu",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 41,
-      "name": "wheatfox",
+      "name": "stuuupidcat",
       "score": 2
    },
    {
       "rank": 42,
+      "name": "Caiyi Shyu",
+      "score": 2
+   },
+   {
+      "rank": 43,
+      "name": "le-monde-bleu",
+      "score": 2
+   },
+   {
+      "rank": 44,
+      "name": "wheatfox",
+      "score": 2
+   },
+   {
+      "rank": 45,
       "name": "lab-pc-wtj",
       "score": 2
    }
