@@ -2,92 +2,92 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 129
+      "score": 137
    },
    {
       "rank": 2,
-      "name": "jiangjianfeng",
-      "score": 104
+      "name": "Junyang Zhang",
+      "score": 117
    },
    {
       "rank": 3,
-      "name": "Junyang Zhang",
-      "score": 83
+      "name": "jiangjianfeng",
+      "score": 86
    },
    {
       "rank": 4,
       "name": "Chengjun Chen",
-      "score": 72
+      "score": 58
    },
    {
       "rank": 5,
-      "name": "vvsv",
+      "name": "Tate, Hongliang Tian",
       "score": 44
    },
    {
       "rank": 6,
-      "name": "Tao Su",
-      "score": 40
+      "name": "vvsv",
+      "score": 44
    },
    {
       "rank": 7,
-      "name": "Tate, Hongliang Tian",
-      "score": 38
+      "name": "Zhenchen Wang",
+      "score": 35
    },
    {
       "rank": 8,
-      "name": "Zhenchen Wang",
-      "score": 31
+      "name": "Tao Su",
+      "score": 33
    },
    {
       "rank": 9,
-      "name": "Wang Siyuan",
-      "score": 29
+      "name": "Qingsong Chen",
+      "score": 19
    },
    {
       "rank": 10,
-      "name": "Cautreoxit",
-      "score": 29
+      "name": "Wang Siyuan",
+      "score": 12
    },
    {
       "rank": 11,
-      "name": "Zhe Tang",
-      "score": 29
+      "name": "Marsman1996",
+      "score": 11
    },
    {
       "rank": 12,
-      "name": "Qingsong Chen",
-      "score": 27
-   },
-   {
-      "rank": 13,
       "name": "Wei Zhang",
       "score": 9
    },
    {
-      "rank": 14,
+      "rank": 13,
       "name": "wyt8",
       "score": 7
    },
    {
+      "rank": 14,
+      "name": "Chaoqun Zheng",
+      "score": 6
+   },
+   {
       "rank": 15,
-      "name": "zjp",
+      "name": "Cautreoxit",
       "score": 6
    },
    {
       "rank": 16,
-      "name": "Chaoqun Zheng",
+      "name": "zjp",
       "score": 4
    },
    {
       "rank": 17,
-      "name": "Hsy-Intel",
-      "score": 4
+      "name": "wheatfox",
+      "score": 3
    },
    {
       "rank": 18,
-      "name": "wheatfox",
-      "score": 3
+      "name": "rikosellic",
+      "score": 2
    },
    {
       "rank": 19,
@@ -101,6 +101,11 @@
    },
    {
       "rank": 21,
+      "name": "Hsy-Intel",
+      "score": 2
+   },
+   {
+      "rank": 22,
       "name": "Yuke Peng",
       "score": 2
    }

@@ -2,47 +2,47 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 373
+      "score": 393
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 216
+      "score": 191
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 187
+      "score": 189
    },
    {
       "rank": 4,
-      "name": "Tao Su",
-      "score": 148
+      "name": "Junyang Zhang",
+      "score": 156
    },
    {
       "rank": 5,
-      "name": "Junyang Zhang",
-      "score": 118
+      "name": "Tao Su",
+      "score": 149
    },
    {
       "rank": 6,
       "name": "Wang Siyuan",
-      "score": 115
+      "score": 112
    },
    {
       "rank": 7,
-      "name": "Zejun Zhao",
-      "score": 83
+      "name": "Tate, Hongliang Tian",
+      "score": 77
    },
    {
       "rank": 8,
-      "name": "Tate, Hongliang Tian",
-      "score": 75
+      "name": "Zejun Zhao",
+      "score": 77
    },
    {
       "rank": 9,
       "name": "Qingsong Chen",
-      "score": 68
+      "score": 66
    },
    {
       "rank": 10,
@@ -57,7 +57,7 @@
    {
       "rank": 12,
       "name": "Zhenchen Wang",
-      "score": 31
+      "score": 35
    },
    {
       "rank": 13,
@@ -66,18 +66,18 @@
    },
    {
       "rank": 14,
-      "name": "Yang Zhichao",
-      "score": 18
-   },
-   {
-      "rank": 15,
       "name": "Wei Zhang",
       "score": 14
    },
    {
-      "rank": 16,
+      "rank": 15,
       "name": "wyt8",
       "score": 12
+   },
+   {
+      "rank": 16,
+      "name": "Marsman1996",
+      "score": 11
    },
    {
       "rank": 17,
@@ -91,17 +91,17 @@
    },
    {
       "rank": 19,
-      "name": "Yuke Peng",
-      "score": 8
-   },
-   {
-      "rank": 20,
       "name": "Arthur Paulino",
       "score": 8
    },
    {
-      "rank": 21,
+      "rank": 20,
       "name": "Chaoqun Zheng",
+      "score": 6
+   },
+   {
+      "rank": 21,
+      "name": "Yuke Peng",
       "score": 4
    },
    {
@@ -111,21 +111,26 @@
    },
    {
       "rank": 23,
-      "name": "John Hughes",
+      "name": "rikosellic",
       "score": 2
    },
    {
       "rank": 24,
-      "name": "Calvin",
+      "name": "John Hughes",
       "score": 2
    },
    {
       "rank": 25,
-      "name": "Hang Shu",
+      "name": "Calvin",
       "score": 2
    },
    {
       "rank": 26,
+      "name": "Hang Shu",
+      "score": 2
+   },
+   {
+      "rank": 27,
       "name": "Ruize Tang",
       "score": 2
    }
