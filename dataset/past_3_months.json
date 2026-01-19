@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 418
+      "score": 413
    },
    {
       "rank": 2,
@@ -11,28 +11,28 @@
    },
    {
       "rank": 3,
+      "name": "Chengjun Chen",
+      "score": 207
+   },
+   {
+      "rank": 4,
       "name": "Junyang Zhang",
       "score": 188
    },
    {
-      "rank": 4,
-      "name": "Chengjun Chen",
-      "score": 180
-   },
-   {
       "rank": 5,
       "name": "Wang Siyuan",
-      "score": 168
+      "score": 156
    },
    {
       "rank": 6,
       "name": "Tao Su",
-      "score": 162
+      "score": 155
    },
    {
       "rank": 7,
-      "name": "Tate, Hongliang Tian",
-      "score": 77
+      "name": "Qingsong Chen",
+      "score": 95
    },
    {
       "rank": 8,
@@ -41,13 +41,13 @@
    },
    {
       "rank": 9,
-      "name": "Cautreoxit",
-      "score": 71
+      "name": "Tate, Hongliang Tian",
+      "score": 73
    },
    {
       "rank": 10,
-      "name": "Qingsong Chen",
-      "score": 69
+      "name": "Cautreoxit",
+      "score": 71
    },
    {
       "rank": 11,
@@ -66,32 +66,32 @@
    },
    {
       "rank": 14,
+      "name": "Marsman1996",
+      "score": 19
+   },
+   {
+      "rank": 15,
+      "name": "wyt8",
+      "score": 19
+   },
+   {
+      "rank": 16,
       "name": "Wei Zhang",
       "score": 14
    },
    {
-      "rank": 15,
-      "name": "Marsman1996",
-      "score": 13
-   },
-   {
-      "rank": 16,
+      "rank": 17,
       "name": "Yuke Peng",
       "score": 12
    },
    {
-      "rank": 17,
-      "name": "wyt8",
-      "score": 12
-   },
-   {
       "rank": 18,
-      "name": "Hsy-Intel",
-      "score": 10
+      "name": "zjp",
+      "score": 8
    },
    {
       "rank": 19,
-      "name": "zjp",
+      "name": "Hsy-Intel",
       "score": 8
    },
    {
@@ -106,36 +106,41 @@
    },
    {
       "rank": 22,
+      "name": "li041",
+      "score": 5
+   },
+   {
+      "rank": 23,
       "name": "wheatfox",
       "score": 3
    },
    {
-      "rank": 23,
+      "rank": 24,
       "name": "zzjrabbit",
       "score": 2
    },
    {
-      "rank": 24,
+      "rank": 25,
       "name": "Jakob Hellermann",
       "score": 2
    },
    {
-      "rank": 25,
+      "rank": 26,
       "name": "rikosellic",
       "score": 2
    },
    {
-      "rank": 26,
+      "rank": 27,
       "name": "John Hughes",
       "score": 2
    },
    {
-      "rank": 27,
+      "rank": 28,
       "name": "Calvin",
       "score": 2
    },
    {
-      "rank": 28,
+      "rank": 29,
       "name": "Hang Shu",
       "score": 2
    }
