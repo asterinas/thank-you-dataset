@@ -2,17 +2,17 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 737
+      "score": 703
    },
    {
       "rank": 2,
       "name": "jiangjianfeng",
-      "score": 313
+      "score": 319
    },
    {
       "rank": 3,
       "name": "Chengjun Chen",
-      "score": 313
+      "score": 299
    },
    {
       "rank": 4,
@@ -27,22 +27,22 @@
    {
       "rank": 6,
       "name": "Tao Su",
-      "score": 186
+      "score": 181
    },
    {
       "rank": 7,
-      "name": "Tate, Hongliang Tian",
-      "score": 138
+      "name": "Qingsong Chen",
+      "score": 128
    },
    {
       "rank": 8,
-      "name": "Zejun Zhao",
-      "score": 123
+      "name": "Tate, Hongliang Tian",
+      "score": 121
    },
    {
       "rank": 9,
-      "name": "Qingsong Chen",
-      "score": 113
+      "name": "Zejun Zhao",
+      "score": 112
    },
    {
       "rank": 10,
@@ -66,33 +66,33 @@
    },
    {
       "rank": 14,
-      "name": "Hsy-Intel",
-      "score": 38
-   },
-   {
-      "rank": 15,
       "name": "Zhenchen Wang",
       "score": 37
    },
    {
-      "rank": 16,
+      "rank": 15,
       "name": "Marsman1996",
       "score": 27
    },
    {
-      "rank": 17,
-      "name": "Arthur Paulino",
-      "score": 22
+      "rank": 16,
+      "name": "Hsy-Intel",
+      "score": 24
    },
    {
-      "rank": 18,
+      "rank": 17,
       "name": "Yang Zhichao",
       "score": 20
    },
    {
-      "rank": 19,
+      "rank": 18,
       "name": "wyt8",
       "score": 19
+   },
+   {
+      "rank": 19,
+      "name": "Xinyi Yu",
+      "score": 17
    },
    {
       "rank": 20,
@@ -101,8 +101,8 @@
    },
    {
       "rank": 21,
-      "name": "Xinyi Yu",
-      "score": 15
+      "name": "Arthur Paulino",
+      "score": 16
    },
    {
       "rank": 22,
@@ -126,22 +126,22 @@
    },
    {
       "rank": 26,
-      "name": "dependabot[bot]",
+      "name": "Chaoqun Zheng",
       "score": 4
    },
    {
       "rank": 27,
+      "name": "dependabot[bot]",
+      "score": 4
+   },
+   {
+      "rank": 28,
       "name": "wheatfox",
       "score": 3
    },
    {
-      "rank": 28,
-      "name": "root",
-      "score": 2
-   },
-   {
       "rank": 29,
-      "name": "Chaoqun Zheng",
+      "name": "root",
       "score": 2
    },
    {
@@ -182,11 +182,6 @@
    {
       "rank": 37,
       "name": "zhuowei shao",
-      "score": 2
-   },
-   {
-      "rank": 38,
-      "name": "Tao Su",
       "score": 2
    }
 ]

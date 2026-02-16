@@ -2,17 +2,17 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 1316
+      "score": 1325
    },
    {
       "rank": 2,
       "name": "Junyang Zhang",
-      "score": 587
+      "score": 554
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 534
+      "score": 532
    },
    {
       "rank": 4,
@@ -27,17 +27,17 @@
    {
       "rank": 6,
       "name": "Qingsong Chen",
-      "score": 247
+      "score": 253
    },
    {
       "rank": 7,
-      "name": "Zejun Zhao",
-      "score": 195
+      "name": "Tao Su",
+      "score": 186
    },
    {
       "rank": 8,
-      "name": "Tao Su",
-      "score": 186
+      "name": "Zejun Zhao",
+      "score": 181
    },
    {
       "rank": 9,
@@ -47,7 +47,7 @@
    {
       "rank": 10,
       "name": "Tate, Hongliang Tian",
-      "score": 162
+      "score": 164
    },
    {
       "rank": 11,
@@ -57,7 +57,7 @@
    {
       "rank": 12,
       "name": "Hsy-Intel",
-      "score": 114
+      "score": 112
    },
    {
       "rank": 13,
@@ -76,23 +76,23 @@
    },
    {
       "rank": 16,
-      "name": "Shaowei Song",
-      "score": 49
-   },
-   {
-      "rank": 17,
       "name": "Zhenchen Wang",
       "score": 45
    },
    {
-      "rank": 18,
+      "rank": 17,
       "name": "vvsv",
       "score": 44
    },
    {
-      "rank": 19,
+      "rank": 18,
       "name": "Zhe Tang",
       "score": 44
+   },
+   {
+      "rank": 19,
+      "name": "Shaowei Song",
+      "score": 43
    },
    {
       "rank": 20,
@@ -111,18 +111,18 @@
    },
    {
       "rank": 23,
-      "name": "li041",
+      "name": "Xinyi Yu",
       "score": 17
    },
    {
       "rank": 24,
-      "name": "js2xxx",
+      "name": "li041",
       "score": 17
    },
    {
       "rank": 25,
-      "name": "Xinyi Yu",
-      "score": 15
+      "name": "js2xxx",
+      "score": 17
    },
    {
       "rank": 26,
@@ -151,37 +151,37 @@
    },
    {
       "rank": 31,
-      "name": "dependabot[bot]",
+      "name": "Chaoqun Zheng",
       "score": 4
    },
    {
       "rank": 32,
-      "name": "Ruize Tang",
+      "name": "dependabot[bot]",
       "score": 4
    },
    {
       "rank": 33,
-      "name": "LeslieKid",
+      "name": "Ruize Tang",
       "score": 4
    },
    {
       "rank": 34,
+      "name": "LeslieKid",
+      "score": 4
+   },
+   {
+      "rank": 35,
       "name": "wheatfox",
       "score": 3
    },
    {
-      "rank": 35,
+      "rank": 36,
       "name": "yuankunzhang",
       "score": 3
    },
    {
-      "rank": 36,
-      "name": "root",
-      "score": 2
-   },
-   {
       "rank": 37,
-      "name": "Chaoqun Zheng",
+      "name": "root",
       "score": 2
    },
    {
