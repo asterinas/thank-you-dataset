@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 96
+      "score": 77
    },
    {
       "rank": 2,
@@ -12,52 +12,52 @@
    {
       "rank": 3,
       "name": "Qingsong Chen",
-      "score": 21
+      "score": 19
    },
    {
       "rank": 4,
-      "name": "Junyang Zhang",
-      "score": 18
-   },
-   {
-      "rank": 5,
       "name": "Xinyi Yu",
       "score": 17
    },
    {
-      "rank": 6,
+      "rank": 5,
       "name": "li041",
-      "score": 17
+      "score": 12
+   },
+   {
+      "rank": 6,
+      "name": "Wang Siyuan",
+      "score": 5
    },
    {
       "rank": 7,
-      "name": "Marsman1996",
-      "score": 10
-   },
-   {
-      "rank": 8,
-      "name": "Wang Siyuan",
-      "score": 9
-   },
-   {
-      "rank": 9,
       "name": "Tate, Hongliang Tian",
       "score": 4
    },
    {
-      "rank": 10,
+      "rank": 8,
       "name": "Chaoqun Zheng",
       "score": 4
    },
    {
-      "rank": 11,
+      "rank": 9,
       "name": "dependabot[bot]",
       "score": 4
    },
    {
-      "rank": 12,
+      "rank": 10,
       "name": "Hsy-Intel",
       "score": 4
+   },
+   {
+      "rank": 11,
+      "name": "Marsman1996",
+      "score": 4
+   },
+   {
+      "rank": 12,
+      "name": "Xinyi Wan",
+      "score": 2
    },
    {
       "rank": 13,
