@@ -1,57 +1,62 @@
 [
    {
       "rank": 1,
-      "name": "jiangjianfeng",
-      "score": 51
+      "name": "Tate, Hongliang Tian",
+      "score": 62
    },
    {
       "rank": 2,
       "name": "Ruihan Li",
-      "score": 49
+      "score": 51
    },
    {
       "rank": 3,
-      "name": "Tate, Hongliang Tian",
-      "score": 45
+      "name": "Jianfeng Jiang",
+      "score": 40
    },
    {
       "rank": 4,
+      "name": "Junyang Zhang",
+      "score": 31
+   },
+   {
+      "rank": 5,
+      "name": "Chengjun Chen",
+      "score": 17
+   },
+   {
+      "rank": 6,
       "name": "Qingsong Chen",
       "score": 15
    },
    {
-      "rank": 5,
-      "name": "Xinyi Yu",
-      "score": 9
-   },
-   {
-      "rank": 6,
-      "name": "li041",
-      "score": 9
-   },
-   {
       "rank": 7,
-      "name": "dependabot[bot]",
-      "score": 4
+      "name": "Wang Siyuan",
+      "score": 12
    },
    {
       "rank": 8,
-      "name": "Hsy-Intel",
-      "score": 4
+      "name": "wyt8",
+      "score": 6
    },
    {
       "rank": 9,
-      "name": "Wei Zhang",
-      "score": 2
+      "name": "Xinyi Wan",
+      "score": 4
    },
    {
       "rank": 10,
-      "name": "Xinyi Wan",
+      "name": "Wei Zhang",
       "score": 2
    },
    {
       "rank": 11,
       "name": "Chaoqun Zheng",
+      "score": 2
+   },
+   {
+      "rank": 12,
+      "name": "Xinyi Yu",
       "score": 2
    }
 ]
