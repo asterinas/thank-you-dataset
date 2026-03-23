@@ -1,56 +1,76 @@
 [
    {
       "rank": 1,
+      "name": "Tate, Hongliang Tian",
+      "score": 87
+   },
+   {
+      "rank": 2,
+      "name": "Ruihan Li",
+      "score": 69
+   },
+   {
+      "rank": 3,
       "name": "Chengjun Chen",
       "score": 69
    },
    {
-      "rank": 2,
-      "name": "Tate, Hongliang Tian",
-      "score": 60
-   },
-   {
-      "rank": 3,
-      "name": "Ruihan Li",
-      "score": 42
-   },
-   {
       "rank": 4,
-      "name": "Junyang Zhang",
-      "score": 37
+      "name": "wyt8",
+      "score": 46
    },
    {
       "rank": 5,
       "name": "Jianfeng Jiang",
-      "score": 32
+      "score": 43
    },
    {
       "rank": 6,
-      "name": "wyt8",
-      "score": 30
+      "name": "Junyang Zhang",
+      "score": 42
    },
    {
       "rank": 7,
-      "name": "Chaoqun Zheng",
-      "score": 20
+      "name": "Tao Su",
+      "score": 35
    },
    {
       "rank": 8,
       "name": "Wang Siyuan",
-      "score": 12
+      "score": 29
    },
    {
       "rank": 9,
-      "name": "Tao Su",
-      "score": 6
+      "name": "Chaoqun Zheng",
+      "score": 20
    },
    {
       "rank": 10,
-      "name": "Xinyi Wan",
-      "score": 4
+      "name": "zzj-5341",
+      "score": 6
    },
    {
       "rank": 11,
+      "name": "Xinyi Yu",
+      "score": 3
+   },
+   {
+      "rank": 12,
+      "name": "Chao Liu",
+      "score": 3
+   },
+   {
+      "rank": 13,
+      "name": "li041",
+      "score": 3
+   },
+   {
+      "rank": 14,
+      "name": "rikosellic",
+      "score": 2
+   },
+   {
+      "rank": 15,
       "name": "Wei Zhang",
       "score": 2
    }
