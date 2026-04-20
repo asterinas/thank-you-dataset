@@ -2,47 +2,47 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 208
+      "score": 222
    },
    {
       "rank": 2,
       "name": "Tate, Hongliang Tian",
-      "score": 130
+      "score": 138
    },
    {
       "rank": 3,
-      "name": "Chengjun Chen",
-      "score": 122
+      "name": "jiangjianfeng",
+      "score": 129
    },
    {
       "rank": 4,
-      "name": "jiangjianfeng",
-      "score": 118
+      "name": "Chengjun Chen",
+      "score": 94
    },
    {
       "rank": 5,
-      "name": "Junyang Zhang",
-      "score": 72
+      "name": "Tao Su",
+      "score": 66
    },
    {
       "rank": 6,
-      "name": "Qingsong Chen",
-      "score": 62
+      "name": "Junyang Zhang",
+      "score": 58
    },
    {
       "rank": 7,
-      "name": "wyt8",
-      "score": 53
-   },
-   {
-      "rank": 8,
-      "name": "Tao Su",
+      "name": "Wang Siyuan",
       "score": 49
    },
    {
+      "rank": 8,
+      "name": "wyt8",
+      "score": 46
+   },
+   {
       "rank": 9,
-      "name": "Wang Siyuan",
-      "score": 41
+      "name": "Qingsong Chen",
+      "score": 36
    },
    {
       "rank": 10,
@@ -67,65 +67,70 @@
    {
       "rank": 14,
       "name": "li041",
-      "score": 20
+      "score": 15
    },
    {
       "rank": 15,
       "name": "Marsman1996",
-      "score": 12
+      "score": 14
    },
    {
       "rank": 16,
+      "name": "Chao Liu",
+      "score": 9
+   },
+   {
+      "rank": 17,
       "name": "Zhihang Shao",
       "score": 7
    },
    {
-      "rank": 17,
+      "rank": 18,
       "name": "zzj-5341",
       "score": 6
    },
    {
-      "rank": 18,
+      "rank": 19,
       "name": "Xinyi Wan",
       "score": 4
    },
    {
-      "rank": 19,
+      "rank": 20,
       "name": "dependabot[bot]",
       "score": 4
    },
    {
-      "rank": 20,
-      "name": "Chao Liu",
-      "score": 3
-   },
-   {
       "rank": 21,
-      "name": "Arthur Paulino",
+      "name": "lxh",
       "score": 2
    },
    {
       "rank": 22,
-      "name": "zjp",
+      "name": "Arthur Paulino",
       "score": 2
    },
    {
       "rank": 23,
-      "name": "Zhenchen Wang",
+      "name": "zjp",
       "score": 2
    },
    {
       "rank": 24,
-      "name": "wrj97",
+      "name": "Zhenchen Wang",
       "score": 2
    },
    {
       "rank": 25,
-      "name": "Wei Zhang",
+      "name": "wrj97",
       "score": 2
    },
    {
       "rank": 26,
+      "name": "Wei Zhang",
+      "score": 2
+   },
+   {
+      "rank": 27,
       "name": "root",
       "score": 2
    }
