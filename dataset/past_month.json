@@ -2,62 +2,62 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 72
+      "score": 160
    },
    {
       "rank": 2,
       "name": "Jianfeng Jiang",
-      "score": 50
+      "score": 94
    },
    {
       "rank": 3,
       "name": "Tate, Hongliang Tian",
-      "score": 47
+      "score": 49
    },
    {
       "rank": 4,
+      "name": "Wang Siyuan",
+      "score": 43
+   },
+   {
+      "rank": 5,
       "name": "Tao Su",
       "score": 31
    },
    {
-      "rank": 5,
+      "rank": 6,
       "name": "Aaron Chen",
+      "score": 30
+   },
+   {
+      "rank": 7,
+      "name": "Qingsong Chen",
       "score": 28
    },
    {
-      "rank": 6,
+      "rank": 8,
       "name": "Chengjun Chen",
       "score": 25
    },
    {
-      "rank": 7,
-      "name": "Junyang Zhang",
-      "score": 21
-   },
-   {
-      "rank": 8,
+      "rank": 9,
       "name": "Hsy-Intel",
       "score": 20
    },
    {
-      "rank": 9,
-      "name": "Qingsong Chen",
-      "score": 17
-   },
-   {
       "rank": 10,
-      "name": "Wang Siyuan",
+      "name": "Junyang Zhang",
       "score": 16
    },
    {
       "rank": 11,
-      "name": "Chao Liu",
-      "score": 9
+      "name": "Zhihang Shao",
+      "score": 7
    },
    {
       "rank": 12,
-      "name": "Zhihang Shao",
-      "score": 7
+      "name": "zzj-5341",
+      "score": 6
    },
    {
       "rank": 13,
@@ -66,37 +66,42 @@
    },
    {
       "rank": 14,
-      "name": "zzj-5341",
+      "name": "Chao Liu",
       "score": 6
    },
    {
       "rank": 15,
-      "name": "Xinyi Yu",
-      "score": 3
+      "name": "li041",
+      "score": 5
    },
    {
       "rank": 16,
-      "name": "lxh",
+      "name": "Xinyi Yu",
       "score": 2
    },
    {
       "rank": 17,
-      "name": "Arthur Paulino",
+      "name": "rikosellic",
       "score": 2
    },
    {
       "rank": 18,
-      "name": "zjp",
+      "name": "lxh",
       "score": 2
    },
    {
       "rank": 19,
-      "name": "Zhenchen Wang",
+      "name": "Arthur Paulino",
       "score": 2
    },
    {
       "rank": 20,
-      "name": "wrj97",
+      "name": "zjp",
+      "score": 2
+   },
+   {
+      "rank": 21,
+      "name": "Zhenchen Wang",
       "score": 2
    }
 ]
