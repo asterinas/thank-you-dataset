@@ -2,27 +2,27 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 616
+      "score": 570
    },
    {
       "rank": 2,
       "name": "jiangjianfeng",
-      "score": 355
+      "score": 342
    },
    {
       "rank": 3,
       "name": "Chengjun Chen",
-      "score": 335
+      "score": 310
    },
    {
       "rank": 4,
       "name": "Qingsong Chen",
-      "score": 252
+      "score": 270
    },
    {
       "rank": 5,
       "name": "Junyang Zhang",
-      "score": 235
+      "score": 232
    },
    {
       "rank": 6,
@@ -32,22 +32,22 @@
    {
       "rank": 7,
       "name": "Xinyi Yu",
-      "score": 204
+      "score": 207
    },
    {
       "rank": 8,
       "name": "Tate, Hongliang Tian",
-      "score": 197
+      "score": 195
    },
    {
       "rank": 9,
-      "name": "Tao Su",
-      "score": 141
+      "name": "li041",
+      "score": 145
    },
    {
       "rank": 10,
-      "name": "li041",
-      "score": 137
+      "name": "Tao Su",
+      "score": 141
    },
    {
       "rank": 11,
@@ -57,27 +57,27 @@
    {
       "rank": 12,
       "name": "zjp",
-      "score": 61
+      "score": 59
    },
    {
       "rank": 13,
-      "name": "vvsv",
-      "score": 44
+      "name": "Marsman1996",
+      "score": 41
    },
    {
       "rank": 14,
-      "name": "Zhenchen Wang",
-      "score": 39
+      "name": "Cautreoxit",
+      "score": 34
    },
    {
       "rank": 15,
-      "name": "Cautreoxit",
-      "score": 38
+      "name": "vvsv",
+      "score": 34
    },
    {
       "rank": 16,
-      "name": "Marsman1996",
-      "score": 37
+      "name": "Hsy-Intel",
+      "score": 30
    },
    {
       "rank": 17,
@@ -86,57 +86,57 @@
    },
    {
       "rank": 18,
-      "name": "Hsy-Intel",
-      "score": 28
-   },
-   {
-      "rank": 19,
       "name": "zzj-5341",
       "score": 27
    },
    {
-      "rank": 20,
+      "rank": 19,
       "name": "Chaoqun Zheng",
       "score": 24
    },
    {
-      "rank": 21,
+      "rank": 20,
       "name": "TankTechnology",
       "score": 20
    },
    {
-      "rank": 22,
+      "rank": 21,
       "name": "yyda",
       "score": 12
    },
    {
-      "rank": 23,
-      "name": "Wei Zhang",
-      "score": 11
-   },
-   {
-      "rank": 24,
+      "rank": 22,
       "name": "Junrui Luo",
       "score": 10
    },
    {
-      "rank": 25,
-      "name": "Yuke Peng",
-      "score": 10
-   },
-   {
-      "rank": 26,
+      "rank": 23,
       "name": "Ray Lee",
       "score": 9
    },
    {
-      "rank": 27,
+      "rank": 24,
       "name": "Chao Liu",
       "score": 9
    },
    {
-      "rank": 28,
+      "rank": 25,
+      "name": "asterinas",
+      "score": 8
+   },
+   {
+      "rank": 26,
       "name": "rikosellic",
+      "score": 8
+   },
+   {
+      "rank": 27,
+      "name": "Zhenchen Wang",
+      "score": 8
+   },
+   {
+      "rank": 28,
+      "name": "Yuke Peng",
       "score": 8
    },
    {
@@ -151,7 +151,7 @@
    },
    {
       "rank": 31,
-      "name": "asterinas",
+      "name": "Wei Zhang",
       "score": 6
    },
    {
@@ -161,51 +161,56 @@
    },
    {
       "rank": 33,
-      "name": "dependabot[bot]",
+      "name": "Linermao",
       "score": 4
    },
    {
       "rank": 34,
-      "name": "wheatfox",
-      "score": 3
+      "name": "dependabot[bot]",
+      "score": 4
    },
    {
       "rank": 35,
-      "name": "lxh",
+      "name": "Shen Bowen",
       "score": 2
    },
    {
       "rank": 36,
-      "name": "Arthur Paulino",
+      "name": "lxh",
       "score": 2
    },
    {
       "rank": 37,
-      "name": "wrj97",
+      "name": "Arthur Paulino",
       "score": 2
    },
    {
       "rank": 38,
-      "name": "root",
+      "name": "wrj97",
       "score": 2
    },
    {
       "rank": 39,
-      "name": "zzjrabbit",
+      "name": "root",
       "score": 2
    },
    {
       "rank": 40,
-      "name": "Jakob Hellermann",
+      "name": "zzjrabbit",
       "score": 2
    },
    {
       "rank": 41,
-      "name": "John Hughes",
+      "name": "Jakob Hellermann",
       "score": 2
    },
    {
       "rank": 42,
+      "name": "John Hughes",
+      "score": 2
+   },
+   {
+      "rank": 43,
       "name": "Calvin",
       "score": 2
    }
