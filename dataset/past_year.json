@@ -2,32 +2,32 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 1257
+      "score": 1256
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 653
+      "score": 654
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 604
+      "score": 594
    },
    {
       "rank": 4,
       "name": "Qingsong Chen",
-      "score": 406
+      "score": 404
    },
    {
       "rank": 5,
       "name": "Wang Siyuan",
-      "score": 386
+      "score": 375
    },
    {
       "rank": 6,
       "name": "Junyang Zhang",
-      "score": 330
+      "score": 316
    },
    {
       "rank": 7,
@@ -52,7 +52,7 @@
    {
       "rank": 11,
       "name": "li041",
-      "score": 149
+      "score": 152
    },
    {
       "rank": 12,
@@ -67,17 +67,17 @@
    {
       "rank": 14,
       "name": "Marsman1996",
-      "score": 80
+      "score": 85
    },
    {
       "rank": 15,
       "name": "Hsy-Intel",
-      "score": 75
+      "score": 77
    },
    {
       "rank": 16,
       "name": "zjp",
-      "score": 67
+      "score": 73
    },
    {
       "rank": 17,
@@ -136,28 +136,28 @@
    },
    {
       "rank": 28,
+      "name": "Ray Lee",
+      "score": 17
+   },
+   {
+      "rank": 29,
       "name": "yyda",
       "score": 12
    },
    {
-      "rank": 29,
+      "rank": 30,
+      "name": "WaterWhisperer",
+      "score": 10
+   },
+   {
+      "rank": 31,
       "name": "Junrui Luo",
       "score": 10
    },
    {
-      "rank": 30,
-      "name": "Ray Lee",
-      "score": 9
-   },
-   {
-      "rank": 31,
+      "rank": 32,
       "name": "Chao Liu",
       "score": 9
-   },
-   {
-      "rank": 32,
-      "name": "WaterWhisperer",
-      "score": 8
    },
    {
       "rank": 33,
@@ -206,33 +206,33 @@
    },
    {
       "rank": 42,
-      "name": "Philipp Schuster",
-      "score": 4
-   },
-   {
-      "rank": 43,
       "name": "Linermao",
       "score": 4
    },
    {
-      "rank": 44,
+      "rank": 43,
       "name": "dependabot[bot]",
       "score": 4
    },
    {
-      "rank": 45,
+      "rank": 44,
       "name": "Ruize Tang",
       "score": 4
    },
    {
-      "rank": 46,
+      "rank": 45,
       "name": "wheatfox",
       "score": 3
    },
    {
-      "rank": 47,
+      "rank": 46,
       "name": "yuankunzhang",
       "score": 3
+   },
+   {
+      "rank": 47,
+      "name": "Philipp Schuster",
+      "score": 2
    },
    {
       "rank": 48,
