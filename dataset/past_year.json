@@ -2,27 +2,27 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 1200
+      "score": 1192
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 654
+      "score": 618
    },
    {
       "rank": 3,
       "name": "jiangjianfeng",
-      "score": 586
+      "score": 584
    },
    {
       "rank": 4,
-      "name": "Qingsong Chen",
-      "score": 392
+      "name": "Tate, Hongliang Tian",
+      "score": 389
    },
    {
       "rank": 5,
-      "name": "Tate, Hongliang Tian",
-      "score": 389
+      "name": "Qingsong Chen",
+      "score": 381
    },
    {
       "rank": 6,
@@ -47,12 +47,12 @@
    {
       "rank": 10,
       "name": "\u738b\u82f1\u6cf0",
-      "score": 186
+      "score": 184
    },
    {
       "rank": 11,
       "name": "li041",
-      "score": 156
+      "score": 158
    },
    {
       "rank": 12,
@@ -66,12 +66,12 @@
    },
    {
       "rank": 14,
-      "name": "Marsman1996",
-      "score": 81
+      "name": "zjp",
+      "score": 77
    },
    {
       "rank": 15,
-      "name": "zjp",
+      "name": "Marsman1996",
       "score": 77
    },
    {
@@ -166,87 +166,87 @@
    },
    {
       "rank": 34,
-      "name": "FallingLeavez",
+      "name": "Mohammad Razeghi",
       "score": 12
    },
    {
       "rank": 35,
-      "name": "yyda",
+      "name": "FallingLeavez",
       "score": 12
    },
    {
       "rank": 36,
+      "name": "yyda",
+      "score": 12
+   },
+   {
+      "rank": 37,
       "name": "Zhihang Shao",
       "score": 11
    },
    {
-      "rank": 37,
+      "rank": 38,
       "name": "Duck Ran",
       "score": 9
    },
    {
-      "rank": 38,
+      "rank": 39,
       "name": "Chao Liu",
       "score": 9
    },
    {
-      "rank": 39,
+      "rank": 40,
       "name": "asterinas",
       "score": 8
    },
    {
-      "rank": 40,
+      "rank": 41,
       "name": "rikosellic",
       "score": 8
    },
    {
-      "rank": 41,
+      "rank": 42,
       "name": "\u5218\u666f\u5b87",
       "score": 7
    },
    {
-      "rank": 42,
+      "rank": 43,
       "name": "Zhe Tang",
       "score": 7
    },
    {
-      "rank": 43,
+      "rank": 44,
       "name": "YanLien",
       "score": 6
    },
    {
-      "rank": 44,
+      "rank": 45,
       "name": "Chaoqun Zheng",
       "score": 6
    },
    {
-      "rank": 45,
+      "rank": 46,
       "name": "YanWQ-monad",
       "score": 5
    },
    {
-      "rank": 46,
+      "rank": 47,
       "name": "wangyue789",
       "score": 4
    },
    {
-      "rank": 47,
+      "rank": 48,
       "name": "Wang Yue",
       "score": 4
    },
    {
-      "rank": 48,
+      "rank": 49,
       "name": "Linermao",
       "score": 4
    },
    {
-      "rank": 49,
-      "name": "dependabot[bot]",
-      "score": 4
-   },
-   {
       "rank": 50,
-      "name": "Ruize Tang",
+      "name": "dependabot[bot]",
       "score": 4
    },
    {
@@ -321,11 +321,16 @@
    },
    {
       "rank": 65,
-      "name": "zhuowei shao",
+      "name": "Ruize Tang",
       "score": 2
    },
    {
       "rank": 66,
+      "name": "zhuowei shao",
+      "score": 2
+   },
+   {
+      "rank": 67,
       "name": "Tao Su",
       "score": 2
    }
