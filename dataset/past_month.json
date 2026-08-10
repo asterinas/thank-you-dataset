@@ -1,107 +1,122 @@
 [
    {
       "rank": 1,
-      "name": "Bet4",
-      "score": 74
+      "name": "Ruihan Li",
+      "score": 84
    },
    {
       "rank": 2,
-      "name": "Chengjun Chen",
-      "score": 53
+      "name": "Bet4",
+      "score": 66
    },
    {
       "rank": 3,
-      "name": "Ruihan Li",
-      "score": 48
+      "name": "Chengjun Chen",
+      "score": 47
    },
    {
       "rank": 4,
       "name": "Jianfeng Jiang",
-      "score": 39
+      "score": 34
    },
    {
       "rank": 5,
       "name": "zjp",
-      "score": 23
+      "score": 31
    },
    {
       "rank": 6,
       "name": "Junrui Luo",
-      "score": 20
+      "score": 15
    },
    {
       "rank": 7,
-      "name": "volca",
-      "score": 17
-   },
-   {
-      "rank": 8,
       "name": "Mohammad Razeghi",
       "score": 12
    },
    {
-      "rank": 9,
+      "rank": 8,
       "name": "FallingLeavez",
       "score": 12
    },
    {
+      "rank": 9,
+      "name": "Tao Su",
+      "score": 10
+   },
+   {
       "rank": 10,
       "name": "li041",
-      "score": 11
+      "score": 7
    },
    {
       "rank": 11,
-      "name": "Duck Ran",
-      "score": 9
+      "name": "harry",
+      "score": 6
    },
    {
       "rank": 12,
-      "name": "\u5218\u666f\u5b87",
-      "score": 7
+      "name": "FallingLeavez",
+      "score": 4
    },
    {
       "rank": 13,
       "name": "Ray Lee",
-      "score": 5
+      "score": 4
    },
    {
       "rank": 14,
-      "name": "yao",
+      "name": "Martin Holovsky",
       "score": 4
    },
    {
       "rank": 15,
-      "name": "Tao Su",
+      "name": "Endlia",
       "score": 4
    },
    {
       "rank": 16,
-      "name": "wangyue789",
+      "name": "yao",
       "score": 4
    },
    {
       "rank": 17,
-      "name": "Wang Yue",
+      "name": "Duck Ran",
       "score": 4
    },
    {
       "rank": 18,
-      "name": "Martin Holovsky",
-      "score": 2
+      "name": "Junyang Zhang",
+      "score": 3
    },
    {
       "rank": 19,
-      "name": "WaterWhisperer",
+      "name": "yanchaomei",
       "score": 2
    },
    {
       "rank": 20,
-      "name": "Qingsong Chen",
+      "name": "Linermao",
       "score": 2
    },
    {
       "rank": 21,
-      "name": "Tate, Hongliang Tian",
+      "name": "rikosellic",
+      "score": 2
+   },
+   {
+      "rank": 22,
+      "name": "TankTechnology",
+      "score": 2
+   },
+   {
+      "rank": 23,
+      "name": "Junjie Cao",
+      "score": 2
+   },
+   {
+      "rank": 24,
+      "name": "wangyue789",
       "score": 2
    }
 ]

@@ -1,23 +1,23 @@
 [
    {
       "rank": 1,
-      "name": "Chengjun Chen",
-      "score": 203
-   },
-   {
-      "rank": 2,
-      "name": "Ruihan Li",
-      "score": 190
-   },
-   {
-      "rank": 3,
       "name": "Xinyi Yu",
       "score": 187
    },
    {
-      "rank": 4,
+      "rank": 2,
+      "name": "Ruihan Li",
+      "score": 182
+   },
+   {
+      "rank": 3,
       "name": "Qingsong Chen",
-      "score": 170
+      "score": 159
+   },
+   {
+      "rank": 4,
+      "name": "Chengjun Chen",
+      "score": 138
    },
    {
       "rank": 5,
@@ -36,12 +36,12 @@
    },
    {
       "rank": 8,
-      "name": "zjp",
-      "score": 86
+      "name": "Bet4",
+      "score": 88
    },
    {
       "rank": 9,
-      "name": "Bet4",
+      "name": "zjp",
       "score": 82
    },
    {
@@ -51,18 +51,18 @@
    },
    {
       "rank": 11,
+      "name": "Tao Su",
+      "score": 45
+   },
+   {
+      "rank": 12,
       "name": "wyt8",
       "score": 40
    },
    {
-      "rank": 12,
+      "rank": 13,
       "name": "Marsman1996",
       "score": 39
-   },
-   {
-      "rank": 13,
-      "name": "Tao Su",
-      "score": 37
    },
    {
       "rank": 14,
@@ -76,22 +76,22 @@
    },
    {
       "rank": 16,
-      "name": "Cautreoxit",
+      "name": "Ray Lee",
       "score": 26
    },
    {
       "rank": 17,
+      "name": "Cautreoxit",
+      "score": 26
+   },
+   {
+      "rank": 18,
       "name": "WaterWhisperer",
       "score": 24
    },
    {
-      "rank": 18,
-      "name": "volca",
-      "score": 22
-   },
-   {
       "rank": 19,
-      "name": "Ray Lee",
+      "name": "volca",
       "score": 22
    },
    {
@@ -116,13 +116,13 @@
    },
    {
       "rank": 24,
-      "name": "Hsy-Intel",
+      "name": "TankTechnology",
       "score": 11
    },
    {
       "rank": 25,
-      "name": "Junyang Zhang",
-      "score": 10
+      "name": "Hsy-Intel",
+      "score": 11
    },
    {
       "rank": 26,
@@ -131,76 +131,106 @@
    },
    {
       "rank": 27,
-      "name": "TankTechnology",
-      "score": 9
-   },
-   {
-      "rank": 28,
-      "name": "asterinas",
-      "score": 8
-   },
-   {
-      "rank": 29,
       "name": "\u5218\u666f\u5b87",
       "score": 7
    },
    {
+      "rank": 28,
+      "name": "Linermao",
+      "score": 6
+   },
+   {
+      "rank": 29,
+      "name": "harry",
+      "score": 6
+   },
+   {
       "rank": 30,
-      "name": "YanLien",
+      "name": "asterinas",
       "score": 6
    },
    {
       "rank": 31,
-      "name": "yao",
-      "score": 4
+      "name": "YanLien",
+      "score": 6
    },
    {
       "rank": 32,
-      "name": "wangyue789",
+      "name": "FallingLeavez",
       "score": 4
    },
    {
       "rank": 33,
-      "name": "Wang Yue",
+      "name": "Martin Holovsky",
       "score": 4
    },
    {
       "rank": 34,
-      "name": "Zhihang Shao",
+      "name": "Endlia",
       "score": 4
    },
    {
       "rank": 35,
-      "name": "Linermao",
+      "name": "yao",
       "score": 4
    },
    {
       "rank": 36,
-      "name": "Martin Holovsky",
-      "score": 2
+      "name": "wangyue789",
+      "score": 4
    },
    {
       "rank": 37,
-      "name": "Haixin Xu",
-      "score": 2
+      "name": "Wang Yue",
+      "score": 4
    },
    {
       "rank": 38,
-      "name": "YanLien",
-      "score": 2
+      "name": "Zhihang Shao",
+      "score": 4
    },
    {
       "rank": 39,
-      "name": "Halifuda",
-      "score": 2
+      "name": "Junyang Zhang",
+      "score": 3
    },
    {
       "rank": 40,
-      "name": "Philipp Schuster",
+      "name": "yanchaomei",
       "score": 2
    },
    {
       "rank": 41,
+      "name": "rikosellic",
+      "score": 2
+   },
+   {
+      "rank": 42,
+      "name": "Junjie Cao",
+      "score": 2
+   },
+   {
+      "rank": 43,
+      "name": "Haixin Xu",
+      "score": 2
+   },
+   {
+      "rank": 44,
+      "name": "YanLien",
+      "score": 2
+   },
+   {
+      "rank": 45,
+      "name": "Halifuda",
+      "score": 2
+   },
+   {
+      "rank": 46,
+      "name": "Philipp Schuster",
+      "score": 2
+   },
+   {
+      "rank": 47,
       "name": "Shen Bowen",
       "score": 2
    }
