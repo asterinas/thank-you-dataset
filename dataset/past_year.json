@@ -2,12 +2,12 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 1203
+      "score": 1191
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 617
+      "score": 605
    },
    {
       "rank": 3,
@@ -17,12 +17,12 @@
    {
       "rank": 4,
       "name": "Qingsong Chen",
-      "score": 368
+      "score": 366
    },
    {
       "rank": 5,
       "name": "Tate, Hongliang Tian",
-      "score": 361
+      "score": 359
    },
    {
       "rank": 6,
@@ -31,23 +31,23 @@
    },
    {
       "rank": 7,
-      "name": "Tao Su",
-      "score": 321
+      "name": "Junyang Zhang",
+      "score": 317
    },
    {
       "rank": 8,
-      "name": "Junyang Zhang",
-      "score": 298
+      "name": "Tao Su",
+      "score": 315
    },
    {
       "rank": 9,
       "name": "Xinyi Yu",
-      "score": 209
+      "score": 219
    },
    {
       "rank": 10,
       "name": "li041",
-      "score": 163
+      "score": 171
    },
    {
       "rank": 11,
@@ -56,8 +56,8 @@
    },
    {
       "rank": 12,
-      "name": "Zejun Zhao",
-      "score": 112
+      "name": "Cautreoxit",
+      "score": 113
    },
    {
       "rank": 13,
@@ -66,8 +66,8 @@
    },
    {
       "rank": 14,
-      "name": "Cautreoxit",
-      "score": 102
+      "name": "Zejun Zhao",
+      "score": 105
    },
    {
       "rank": 15,
@@ -97,42 +97,42 @@
    {
       "rank": 20,
       "name": "Hsy-Intel",
-      "score": 55
+      "score": 53
    },
    {
       "rank": 21,
+      "name": "Ray Lee",
+      "score": 48
+   },
+   {
+      "rank": 22,
       "name": "vvsv",
       "score": 44
    },
    {
-      "rank": 22,
+      "rank": 23,
       "name": "Zhe Tang",
       "score": 42
    },
    {
-      "rank": 23,
+      "rank": 24,
       "name": "Zhenchen Wang",
       "score": 39
    },
    {
-      "rank": 24,
+      "rank": 25,
       "name": "volca",
       "score": 30
    },
    {
-      "rank": 25,
+      "rank": 26,
       "name": "Junrui Luo",
       "score": 30
    },
    {
-      "rank": 26,
+      "rank": 27,
       "name": "Aaron Chen",
       "score": 30
-   },
-   {
-      "rank": 27,
-      "name": "Ray Lee",
-      "score": 26
    },
    {
       "rank": 28,
@@ -156,12 +156,12 @@
    },
    {
       "rank": 32,
-      "name": "co63oc",
-      "score": 18
+      "name": "yao",
+      "score": 19
    },
    {
       "rank": 33,
-      "name": "Arthur Paulino",
+      "name": "co63oc",
       "score": 18
    },
    {
@@ -176,186 +176,196 @@
    },
    {
       "rank": 36,
+      "name": "Arthur Paulino",
+      "score": 15
+   },
+   {
+      "rank": 37,
       "name": "Mohammad Razeghi",
       "score": 12
    },
    {
-      "rank": 37,
-      "name": "FallingLeavez",
-      "score": 12
-   },
-   {
       "rank": 38,
-      "name": "yyda",
+      "name": "FallingLeavez",
       "score": 12
    },
    {
       "rank": 39,
+      "name": "yyda",
+      "score": 12
+   },
+   {
+      "rank": 40,
       "name": "Zhihang Shao",
       "score": 11
    },
    {
-      "rank": 40,
+      "rank": 41,
+      "name": "Endlia",
+      "score": 10
+   },
+   {
+      "rank": 42,
       "name": "rikosellic",
       "score": 10
    },
    {
-      "rank": 41,
-      "name": "yao",
-      "score": 9
-   },
-   {
-      "rank": 42,
+      "rank": 43,
       "name": "Chao Liu",
       "score": 9
    },
    {
-      "rank": 43,
+      "rank": 44,
       "name": "\u5218\u666f\u5b87",
       "score": 7
    },
    {
-      "rank": 44,
+      "rank": 45,
       "name": "Zhe Tang",
       "score": 7
    },
    {
-      "rank": 45,
+      "rank": 46,
       "name": "Junjie Cao",
       "score": 6
    },
    {
-      "rank": 46,
+      "rank": 47,
       "name": "Linermao",
       "score": 6
    },
    {
-      "rank": 47,
+      "rank": 48,
       "name": "harry",
       "score": 6
    },
    {
-      "rank": 48,
-      "name": "YanLien",
-      "score": 6
-   },
-   {
       "rank": 49,
-      "name": "Chaoqun Zheng",
+      "name": "YanLien",
       "score": 6
    },
    {
       "rank": 50,
+      "name": "Chaoqun Zheng",
+      "score": 6
+   },
+   {
+      "rank": 51,
       "name": "FallingLeavez",
       "score": 4
    },
    {
-      "rank": 51,
+      "rank": 52,
       "name": "Martin Holovsky",
       "score": 4
    },
    {
-      "rank": 52,
+      "rank": 53,
       "name": "Endlia",
       "score": 4
    },
    {
-      "rank": 53,
+      "rank": 54,
       "name": "wangyue789",
       "score": 4
    },
    {
-      "rank": 54,
+      "rank": 55,
       "name": "Wang Yue",
       "score": 4
    },
    {
-      "rank": 55,
+      "rank": 56,
       "name": "dependabot[bot]",
       "score": 4
    },
    {
-      "rank": 56,
+      "rank": 57,
       "name": "wheatfox",
       "score": 3
    },
    {
-      "rank": 57,
-      "name": "yanchaomei",
-      "score": 2
-   },
-   {
       "rank": 58,
-      "name": "Haixin Xu",
+      "name": "Ruowen Qin",
       "score": 2
    },
    {
       "rank": 59,
-      "name": "YanLien",
+      "name": "yanchaomei",
       "score": 2
    },
    {
       "rank": 60,
-      "name": "Halifuda",
+      "name": "Haixin Xu",
       "score": 2
    },
    {
       "rank": 61,
-      "name": "Philipp Schuster",
+      "name": "YanLien",
       "score": 2
    },
    {
       "rank": 62,
-      "name": "Shen Bowen",
+      "name": "Halifuda",
       "score": 2
    },
    {
       "rank": 63,
-      "name": "lxh",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 64,
-      "name": "wrj97",
+      "name": "Shen Bowen",
       "score": 2
    },
    {
       "rank": 65,
-      "name": "root",
+      "name": "lxh",
       "score": 2
    },
    {
       "rank": 66,
-      "name": "zzjrabbit",
+      "name": "wrj97",
       "score": 2
    },
    {
       "rank": 67,
-      "name": "Jakob Hellermann",
+      "name": "root",
       "score": 2
    },
    {
       "rank": 68,
-      "name": "John Hughes",
+      "name": "zzjrabbit",
       "score": 2
    },
    {
       "rank": 69,
-      "name": "Calvin",
+      "name": "Jakob Hellermann",
       "score": 2
    },
    {
       "rank": 70,
-      "name": "Hang Shu",
+      "name": "John Hughes",
       "score": 2
    },
    {
       "rank": 71,
-      "name": "Ruize Tang",
+      "name": "Calvin",
       "score": 2
    },
    {
       "rank": 72,
+      "name": "Hang Shu",
+      "score": 2
+   },
+   {
+      "rank": 73,
+      "name": "Ruize Tang",
+      "score": 2
+   },
+   {
+      "rank": 74,
       "name": "zhuowei shao",
       "score": 2
    }
