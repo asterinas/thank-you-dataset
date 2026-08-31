@@ -2,47 +2,47 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 502
+      "score": 486
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 320
+      "score": 321
    },
    {
       "rank": 3,
       "name": "Jianfeng Jiang",
-      "score": 281
+      "score": 268
    },
    {
       "rank": 4,
       "name": "Qingsong Chen",
-      "score": 240
+      "score": 258
    },
    {
       "rank": 5,
-      "name": "Tate, Hongliang Tian",
-      "score": 240
-   },
-   {
-      "rank": 6,
       "name": "Xinyi Yu",
       "score": 202
    },
    {
+      "rank": 6,
+      "name": "Tate, Hongliang Tian",
+      "score": 184
+   },
+   {
       "rank": 7,
-      "name": "li041",
-      "score": 154
+      "name": "Tao Su",
+      "score": 163
    },
    {
       "rank": 8,
-      "name": "Wang Siyuan",
-      "score": 149
+      "name": "li041",
+      "score": 156
    },
    {
       "rank": 9,
-      "name": "Tao Su",
-      "score": 140
+      "name": "Wang Siyuan",
+      "score": 149
    },
    {
       "rank": 10,
@@ -52,7 +52,7 @@
    {
       "rank": 11,
       "name": "Bet4",
-      "score": 97
+      "score": 116
    },
    {
       "rank": 12,
@@ -201,87 +201,92 @@
    },
    {
       "rank": 41,
-      "name": "FallingLeavez",
+      "name": "wheatfox",
       "score": 4
    },
    {
       "rank": 42,
-      "name": "Martin Holovsky",
+      "name": "FallingLeavez",
       "score": 4
    },
    {
       "rank": 43,
-      "name": "Endlia",
+      "name": "Martin Holovsky",
       "score": 4
    },
    {
       "rank": 44,
-      "name": "wangyue789",
+      "name": "Endlia",
       "score": 4
    },
    {
       "rank": 45,
-      "name": "Wang Yue",
+      "name": "wangyue789",
       "score": 4
    },
    {
       "rank": 46,
-      "name": "Ruowen Qin",
-      "score": 2
+      "name": "Wang Yue",
+      "score": 4
    },
    {
       "rank": 47,
-      "name": "yanchaomei",
+      "name": "Fan Jie",
       "score": 2
    },
    {
       "rank": 48,
-      "name": "Haixin Xu",
+      "name": "Ruowen Qin",
       "score": 2
    },
    {
       "rank": 49,
-      "name": "YanLien",
+      "name": "yanchaomei",
       "score": 2
    },
    {
       "rank": 50,
-      "name": "Halifuda",
+      "name": "Haixin Xu",
       "score": 2
    },
    {
       "rank": 51,
-      "name": "Philipp Schuster",
+      "name": "YanLien",
       "score": 2
    },
    {
       "rank": 52,
-      "name": "Shen Bowen",
+      "name": "Halifuda",
       "score": 2
    },
    {
       "rank": 53,
-      "name": "lxh",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 54,
-      "name": "Arthur Paulino",
+      "name": "Shen Bowen",
       "score": 2
    },
    {
       "rank": 55,
-      "name": "Zhenchen Wang",
+      "name": "lxh",
       "score": 2
    },
    {
       "rank": 56,
-      "name": "wrj97",
+      "name": "Arthur Paulino",
       "score": 2
    },
    {
       "rank": 57,
-      "name": "Wei Zhang",
+      "name": "Zhenchen Wang",
+      "score": 2
+   },
+   {
+      "rank": 58,
+      "name": "wrj97",
       "score": 2
    }
 ]
