@@ -2,22 +2,22 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 486
+      "score": 499
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 321
+      "score": 322
    },
    {
       "rank": 3,
-      "name": "Jianfeng Jiang",
-      "score": 268
+      "name": "Qingsong Chen",
+      "score": 303
    },
    {
       "rank": 4,
-      "name": "Qingsong Chen",
-      "score": 258
+      "name": "Jianfeng Jiang",
+      "score": 272
    },
    {
       "rank": 5,
@@ -27,7 +27,7 @@
    {
       "rank": 6,
       "name": "Tate, Hongliang Tian",
-      "score": 184
+      "score": 182
    },
    {
       "rank": 7,
@@ -56,23 +56,23 @@
    },
    {
       "rank": 12,
-      "name": "Junyang Zhang",
-      "score": 90
-   },
-   {
-      "rank": 13,
       "name": "wyt8",
       "score": 86
    },
    {
-      "rank": 14,
+      "rank": 13,
       "name": "asterinas",
       "score": 80
    },
    {
-      "rank": 15,
+      "rank": 14,
       "name": "zzj-5341",
       "score": 65
+   },
+   {
+      "rank": 15,
+      "name": "Junyang Zhang",
+      "score": 61
    },
    {
       "rank": 16,
@@ -91,13 +91,13 @@
    },
    {
       "rank": 19,
-      "name": "Hsy-Intel",
-      "score": 31
+      "name": "volca",
+      "score": 34
    },
    {
       "rank": 20,
-      "name": "volca",
-      "score": 30
+      "name": "Hsy-Intel",
+      "score": 31
    },
    {
       "rank": 21,
@@ -191,13 +191,13 @@
    },
    {
       "rank": 39,
-      "name": "rikosellic",
+      "name": "YanLien",
       "score": 6
    },
    {
       "rank": 40,
-      "name": "YanLien",
-      "score": 6
+      "name": "Fan Jie",
+      "score": 4
    },
    {
       "rank": 41,
@@ -211,81 +211,86 @@
    },
    {
       "rank": 43,
-      "name": "Martin Holovsky",
+      "name": "rikosellic",
       "score": 4
    },
    {
       "rank": 44,
-      "name": "Endlia",
+      "name": "Martin Holovsky",
       "score": 4
    },
    {
       "rank": 45,
-      "name": "wangyue789",
+      "name": "Endlia",
       "score": 4
    },
    {
       "rank": 46,
-      "name": "Wang Yue",
+      "name": "wangyue789",
       "score": 4
    },
    {
       "rank": 47,
-      "name": "Fan Jie",
-      "score": 2
+      "name": "Wang Yue",
+      "score": 4
    },
    {
       "rank": 48,
-      "name": "Ruowen Qin",
+      "name": "aiqubits",
       "score": 2
    },
    {
       "rank": 49,
-      "name": "yanchaomei",
+      "name": "Ruowen Qin",
       "score": 2
    },
    {
       "rank": 50,
-      "name": "Haixin Xu",
+      "name": "yanchaomei",
       "score": 2
    },
    {
       "rank": 51,
-      "name": "YanLien",
+      "name": "Haixin Xu",
       "score": 2
    },
    {
       "rank": 52,
-      "name": "Halifuda",
+      "name": "YanLien",
       "score": 2
    },
    {
       "rank": 53,
-      "name": "Philipp Schuster",
+      "name": "Halifuda",
       "score": 2
    },
    {
       "rank": 54,
-      "name": "Shen Bowen",
+      "name": "Philipp Schuster",
       "score": 2
    },
    {
       "rank": 55,
-      "name": "lxh",
+      "name": "Shen Bowen",
       "score": 2
    },
    {
       "rank": 56,
-      "name": "Arthur Paulino",
+      "name": "lxh",
       "score": 2
    },
    {
       "rank": 57,
-      "name": "Zhenchen Wang",
+      "name": "Arthur Paulino",
       "score": 2
    },
    {
       "rank": 58,
+      "name": "Zhenchen Wang",
+      "score": 2
+   },
+   {
+      "rank": 59,
       "name": "wrj97",
       "score": 2
    }
