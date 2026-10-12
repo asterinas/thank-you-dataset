@@ -2,26 +2,26 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 360
+      "score": 368
    },
    {
       "rank": 2,
       "name": "Chengjun Chen",
-      "score": 160
+      "score": 158
    },
    {
       "rank": 3,
+      "name": "Linermao",
+      "score": 124
+   },
+   {
+      "rank": 4,
       "name": "Tao Su",
       "score": 123
    },
    {
-      "rank": 4,
-      "name": "Halifuda",
-      "score": 108
-   },
-   {
       "rank": 5,
-      "name": "Bet4",
+      "name": "Halifuda",
       "score": 108
    },
    {
@@ -32,47 +32,47 @@
    {
       "rank": 7,
       "name": "Jianfeng Jiang",
-      "score": 89
+      "score": 87
    },
    {
       "rank": 8,
-      "name": "li041",
-      "score": 85
+      "name": "le-monde-bleu",
+      "score": 84
    },
    {
       "rank": 9,
-      "name": "le-monde-bleu",
-      "score": 78
+      "name": "li041",
+      "score": 83
    },
    {
       "rank": 10,
       "name": "Qingsong Chen",
-      "score": 75
+      "score": 79
    },
    {
       "rank": 11,
       "name": "Ray Lee",
-      "score": 72
+      "score": 67
    },
    {
       "rank": 12,
-      "name": "Linermao",
-      "score": 56
+      "name": "Bet4",
+      "score": 61
    },
    {
       "rank": 13,
-      "name": "Ruowen Qin",
-      "score": 39
+      "name": "harry",
+      "score": 55
    },
    {
       "rank": 14,
-      "name": "yao",
-      "score": 37
+      "name": "Ruowen Qin",
+      "score": 41
    },
    {
       "rank": 15,
-      "name": "harry",
-      "score": 33
+      "name": "yao",
+      "score": 37
    },
    {
       "rank": 16,
@@ -86,13 +86,13 @@
    },
    {
       "rank": 18,
-      "name": "volca",
-      "score": 25
+      "name": "zzj-5341",
+      "score": 24
    },
    {
       "rank": 19,
-      "name": "zzj-5341",
-      "score": 24
+      "name": "Tate, Hongliang Tian",
+      "score": 21
    },
    {
       "rank": 20,
@@ -101,13 +101,13 @@
    },
    {
       "rank": 21,
-      "name": "Duck Ran",
+      "name": "Junrui Luo",
       "score": 15
    },
    {
       "rank": 22,
-      "name": "Junrui Luo",
-      "score": 15
+      "name": "Hsy-Intel",
+      "score": 14
    },
    {
       "rank": 23,
@@ -116,7 +116,7 @@
    },
    {
       "rank": 24,
-      "name": "Tate, Hongliang Tian",
+      "name": "volca",
       "score": 12
    },
    {
@@ -126,32 +126,32 @@
    },
    {
       "rank": 26,
-      "name": "FallingLeavez",
-      "score": 12
-   },
-   {
-      "rank": 27,
       "name": "Endlia",
       "score": 10
    },
    {
-      "rank": 28,
+      "rank": 27,
       "name": "Xinyi Yu",
       "score": 10
    },
    {
-      "rank": 29,
-      "name": "\u5218\u666f\u5b87",
+      "rank": 28,
+      "name": "Mike Solar",
       "score": 7
    },
    {
-      "rank": 30,
+      "rank": 29,
       "name": "Zhouqi Jiang",
       "score": 6
    },
    {
-      "rank": 31,
+      "rank": 30,
       "name": "Junjie Cao",
+      "score": 6
+   },
+   {
+      "rank": 31,
+      "name": "Duck Ran",
       "score": 6
    },
    {
@@ -161,17 +161,17 @@
    },
    {
       "rank": 33,
-      "name": "Bitter127",
+      "name": "QcN3ep",
       "score": 4
    },
    {
       "rank": 34,
-      "name": "WX Chen",
+      "name": "Bitter127",
       "score": 4
    },
    {
       "rank": 35,
-      "name": "Hsy-Intel",
+      "name": "WX Chen",
       "score": 4
    },
    {
@@ -201,52 +201,37 @@
    },
    {
       "rank": 41,
-      "name": "wangyue789",
-      "score": 4
-   },
-   {
-      "rank": 42,
       "name": "Shi Lei",
       "score": 3
    },
    {
-      "rank": 43,
+      "rank": 42,
       "name": "Boyang Xue",
       "score": 2
    },
    {
-      "rank": 44,
+      "rank": 43,
       "name": "Jia Qingtong",
       "score": 2
    },
    {
-      "rank": 45,
-      "name": "Mike Solar",
-      "score": 2
-   },
-   {
-      "rank": 46,
+      "rank": 44,
       "name": "aiqubits",
       "score": 2
    },
    {
-      "rank": 47,
+      "rank": 45,
       "name": "yanchaomei",
       "score": 2
    },
    {
-      "rank": 48,
+      "rank": 46,
       "name": "rikosellic",
       "score": 2
    },
    {
-      "rank": 49,
+      "rank": 47,
       "name": "TankTechnology",
-      "score": 2
-   },
-   {
-      "rank": 50,
-      "name": "WaterWhisperer",
       "score": 2
    }
 ]
