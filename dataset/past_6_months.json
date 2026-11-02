@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 542
+      "score": 551
    },
    {
       "rank": 2,
@@ -12,27 +12,27 @@
    {
       "rank": 3,
       "name": "Qingsong Chen",
-      "score": 294
+      "score": 258
    },
    {
       "rank": 4,
-      "name": "li041",
-      "score": 214
-   },
-   {
-      "rank": 5,
       "name": "Xinyi Yu",
       "score": 197
    },
    {
+      "rank": 5,
+      "name": "li041",
+      "score": 195
+   },
+   {
       "rank": 6,
       "name": "Jianfeng Jiang",
-      "score": 194
+      "score": 184
    },
    {
       "rank": 7,
       "name": "Tao Su",
-      "score": 167
+      "score": 160
    },
    {
       "rank": 8,
@@ -61,18 +61,18 @@
    },
    {
       "rank": 13,
-      "name": "Wang Siyuan",
-      "score": 109
+      "name": "Ray Lee",
+      "score": 105
    },
    {
       "rank": 14,
-      "name": "Ray Lee",
-      "score": 95
+      "name": "asterinas",
+      "score": 94
    },
    {
       "rank": 15,
-      "name": "asterinas",
-      "score": 94
+      "name": "Wang Siyuan",
+      "score": 77
    },
    {
       "rank": 16,
@@ -131,23 +131,23 @@
    },
    {
       "rank": 27,
-      "name": "TankTechnology",
-      "score": 24
-   },
-   {
-      "rank": 28,
       "name": "WaterWhisperer",
       "score": 24
    },
    {
-      "rank": 29,
+      "rank": 28,
       "name": "androidAppGuard",
       "score": 21
    },
    {
-      "rank": 30,
+      "rank": 29,
       "name": "co63oc",
       "score": 18
+   },
+   {
+      "rank": 30,
+      "name": "1sh1ro",
+      "score": 16
    },
    {
       "rank": 31,
@@ -156,28 +156,28 @@
    },
    {
       "rank": 32,
-      "name": "1sh1ro",
-      "score": 13
-   },
-   {
-      "rank": 33,
       "name": "Fan Jie",
       "score": 13
    },
    {
-      "rank": 34,
+      "rank": 33,
       "name": "Mohammad Razeghi",
       "score": 12
    },
    {
-      "rank": 35,
+      "rank": 34,
       "name": "FallingLeavez",
       "score": 12
    },
    {
-      "rank": 36,
+      "rank": 35,
       "name": "yyda",
       "score": 12
+   },
+   {
+      "rank": 36,
+      "name": "TankTechnology",
+      "score": 11
    },
    {
       "rank": 37,
@@ -186,146 +186,161 @@
    },
    {
       "rank": 38,
+      "name": "aiqubits",
+      "score": 8
+   },
+   {
+      "rank": 39,
       "name": "Mike Solar",
       "score": 7
    },
    {
-      "rank": 39,
+      "rank": 40,
       "name": "\u5218\u666f\u5b87",
       "score": 7
    },
    {
-      "rank": 40,
-      "name": "Tonyyang0606",
-      "score": 6
-   },
-   {
       "rank": 41,
-      "name": "Zhouqi Jiang",
+      "name": "QcN3ep",
       "score": 6
    },
    {
       "rank": 42,
-      "name": "Junjie Cao",
+      "name": "Ruowen Qin",
       "score": 6
    },
    {
       "rank": 43,
-      "name": "YanLien",
+      "name": "Tonyyang0606",
       "score": 6
    },
    {
       "rank": 44,
-      "name": "aiqubits",
-      "score": 4
+      "name": "Zhouqi Jiang",
+      "score": 6
    },
    {
       "rank": 45,
-      "name": "QcN3ep",
-      "score": 4
+      "name": "Junjie Cao",
+      "score": 6
    },
    {
       "rank": 46,
-      "name": "Bitter127",
-      "score": 4
+      "name": "YanLien",
+      "score": 6
    },
    {
       "rank": 47,
-      "name": "WX Chen",
-      "score": 4
+      "name": "zhuowei shao",
+      "score": 5
    },
    {
       "rank": 48,
-      "name": "Jia Qingtong",
+      "name": "Boyang Xue",
       "score": 4
    },
    {
       "rank": 49,
-      "name": "wheatfox",
+      "name": "Bitter127",
       "score": 4
    },
    {
       "rank": 50,
-      "name": "FallingLeavez",
+      "name": "WX Chen",
       "score": 4
    },
    {
       "rank": 51,
-      "name": "Martin Holovsky",
+      "name": "Jia Qingtong",
       "score": 4
    },
    {
       "rank": 52,
-      "name": "Endlia",
+      "name": "wheatfox",
       "score": 4
    },
    {
       "rank": 53,
-      "name": "wangyue789",
+      "name": "FallingLeavez",
       "score": 4
    },
    {
       "rank": 54,
-      "name": "Wang Yue",
+      "name": "Martin Holovsky",
       "score": 4
    },
    {
       "rank": 55,
-      "name": "Zhihang Shao",
+      "name": "Endlia",
       "score": 4
    },
    {
       "rank": 56,
+      "name": "wangyue789",
+      "score": 4
+   },
+   {
+      "rank": 57,
+      "name": "Wang Yue",
+      "score": 4
+   },
+   {
+      "rank": 58,
+      "name": "Zhihang Shao",
+      "score": 4
+   },
+   {
+      "rank": 59,
       "name": "Shi Lei",
       "score": 3
    },
    {
-      "rank": 57,
+      "rank": 60,
       "name": "bmalum",
       "score": 2
    },
    {
-      "rank": 58,
+      "rank": 61,
       "name": "\u671d\u5009\u6c34\u5e0c",
       "score": 2
    },
    {
-      "rank": 59,
+      "rank": 62,
       "name": "Boyang Xue",
       "score": 2
    },
    {
-      "rank": 60,
+      "rank": 63,
       "name": "Jia Qingtong",
       "score": 2
    },
    {
-      "rank": 61,
+      "rank": 64,
       "name": "yanchaomei",
       "score": 2
    },
    {
-      "rank": 62,
+      "rank": 65,
       "name": "rikosellic",
       "score": 2
    },
    {
-      "rank": 63,
+      "rank": 66,
       "name": "Haixin Xu",
       "score": 2
    },
    {
-      "rank": 64,
+      "rank": 67,
       "name": "YanLien",
       "score": 2
    },
    {
-      "rank": 65,
+      "rank": 68,
       "name": "Philipp Schuster",
       "score": 2
    },
    {
-      "rank": 66,
+      "rank": 69,
       "name": "Shen Bowen",
       "score": 2
    }
